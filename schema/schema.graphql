@@ -1,0 +1,320 @@
+type Manufacturer {
+  id: ID!
+  name: String!
+  country: String!
+  cars(filter: ModelCarFilterInput, sortDirection: ModelSortDirection, limit: Int, nextToken: String): ModelCarConnection
+}
+
+type Car {
+  id: ID!
+  manufacturer: Manufacturer
+  name: String!
+  power: Int
+  weight: Int
+  drivetrain: String
+  division: String!
+  speed: Float!
+  acceleration: Float!
+  braking: Float!
+  cornering: Float!
+  stability: Float!
+  price: Int
+}
+
+type Championship {
+  id: ID!
+  name: String!
+  races(filter: ModelRaceFilterInput, sortDirection: ModelSortDirection, limit: Int, nextToken: String): ModelRaceConnection
+}
+
+type Race {
+  id: ID!
+  championship: Championship
+  track: Track!
+}
+
+type Track {
+  id: ID!
+  name: String!
+  races(filter: ModelRaceFilterInput, sortDirection: ModelSortDirection, limit: Int, nextToken: String): ModelRaceConnection
+}
+
+enum ModelSortDirection {
+  ASC
+  DESC
+}
+
+type ModelManufacturerConnection {
+  items: [Manufacturer]
+  nextToken: String
+}
+
+input ModelStringFilterInput {
+  ne: String
+  eq: String
+  le: String
+  lt: String
+  ge: String
+  gt: String
+  contains: String
+  notContains: String
+  between: [String]
+  beginsWith: String
+}
+
+input ModelIDFilterInput {
+  ne: ID
+  eq: ID
+  le: ID
+  lt: ID
+  ge: ID
+  gt: ID
+  contains: ID
+  notContains: ID
+  between: [ID]
+  beginsWith: ID
+}
+
+input ModelIntFilterInput {
+  ne: Int
+  eq: Int
+  le: Int
+  lt: Int
+  ge: Int
+  gt: Int
+  contains: Int
+  notContains: Int
+  between: [Int]
+}
+
+input ModelFloatFilterInput {
+  ne: Float
+  eq: Float
+  le: Float
+  lt: Float
+  ge: Float
+  gt: Float
+  contains: Float
+  notContains: Float
+  between: [Float]
+}
+
+input ModelBooleanFilterInput {
+  ne: Boolean
+  eq: Boolean
+}
+
+input ModelManufacturerFilterInput {
+  id: ModelIDFilterInput
+  name: ModelStringFilterInput
+  country: ModelStringFilterInput
+  and: [ModelManufacturerFilterInput]
+  or: [ModelManufacturerFilterInput]
+  not: ModelManufacturerFilterInput
+}
+
+type Query {
+  getManufacturer(id: ID!): Manufacturer
+  listManufacturers(filter: ModelManufacturerFilterInput, limit: Int, nextToken: String): ModelManufacturerConnection
+  getCar(id: ID!): Car
+  listCars(filter: ModelCarFilterInput, limit: Int, nextToken: String): ModelCarConnection
+  getChampionship(id: ID!): Championship
+  listChampionships(filter: ModelChampionshipFilterInput, limit: Int, nextToken: String): ModelChampionshipConnection
+  getRace(id: ID!): Race
+  listRaces(filter: ModelRaceFilterInput, limit: Int, nextToken: String): ModelRaceConnection
+  getTrack(id: ID!): Track
+  listTracks(filter: ModelTrackFilterInput, limit: Int, nextToken: String): ModelTrackConnection
+}
+
+input CreateManufacturerInput {
+  id: ID
+  name: String!
+  country: String!
+}
+
+input UpdateManufacturerInput {
+  id: ID!
+  name: String
+  country: String
+}
+
+input DeleteManufacturerInput {
+  id: ID
+}
+
+type Mutation {
+  createManufacturer(input: CreateManufacturerInput!): Manufacturer
+  updateManufacturer(input: UpdateManufacturerInput!): Manufacturer
+  deleteManufacturer(input: DeleteManufacturerInput!): Manufacturer
+  createCar(input: CreateCarInput!): Car
+  updateCar(input: UpdateCarInput!): Car
+  deleteCar(input: DeleteCarInput!): Car
+  createChampionship(input: CreateChampionshipInput!): Championship
+  updateChampionship(input: UpdateChampionshipInput!): Championship
+  deleteChampionship(input: DeleteChampionshipInput!): Championship
+  createRace(input: CreateRaceInput!): Race
+  updateRace(input: UpdateRaceInput!): Race
+  deleteRace(input: DeleteRaceInput!): Race
+  createTrack(input: CreateTrackInput!): Track
+  updateTrack(input: UpdateTrackInput!): Track
+  deleteTrack(input: DeleteTrackInput!): Track
+}
+
+type Subscription {
+  onCreateManufacturer: Manufacturer @aws_subscribe(mutations: ["createManufacturer"])
+  onUpdateManufacturer: Manufacturer @aws_subscribe(mutations: ["updateManufacturer"])
+  onDeleteManufacturer: Manufacturer @aws_subscribe(mutations: ["deleteManufacturer"])
+  onCreateCar: Car @aws_subscribe(mutations: ["createCar"])
+  onUpdateCar: Car @aws_subscribe(mutations: ["updateCar"])
+  onDeleteCar: Car @aws_subscribe(mutations: ["deleteCar"])
+  onCreateChampionship: Championship @aws_subscribe(mutations: ["createChampionship"])
+  onUpdateChampionship: Championship @aws_subscribe(mutations: ["updateChampionship"])
+  onDeleteChampionship: Championship @aws_subscribe(mutations: ["deleteChampionship"])
+  onCreateRace: Race @aws_subscribe(mutations: ["createRace"])
+  onUpdateRace: Race @aws_subscribe(mutations: ["updateRace"])
+  onDeleteRace: Race @aws_subscribe(mutations: ["deleteRace"])
+  onCreateTrack: Track @aws_subscribe(mutations: ["createTrack"])
+  onUpdateTrack: Track @aws_subscribe(mutations: ["updateTrack"])
+  onDeleteTrack: Track @aws_subscribe(mutations: ["deleteTrack"])
+}
+
+type ModelCarConnection {
+  items: [Car]
+  nextToken: String
+}
+
+input ModelCarFilterInput {
+  id: ModelIDFilterInput
+  name: ModelStringFilterInput
+  power: ModelIntFilterInput
+  weight: ModelIntFilterInput
+  drivetrain: ModelStringFilterInput
+  division: ModelStringFilterInput
+  speed: ModelFloatFilterInput
+  acceleration: ModelFloatFilterInput
+  braking: ModelFloatFilterInput
+  cornering: ModelFloatFilterInput
+  stability: ModelFloatFilterInput
+  price: ModelIntFilterInput
+  and: [ModelCarFilterInput]
+  or: [ModelCarFilterInput]
+  not: ModelCarFilterInput
+}
+
+input CreateCarInput {
+  id: ID
+  name: String!
+  power: Int
+  weight: Int
+  drivetrain: String
+  division: String!
+  speed: Float!
+  acceleration: Float!
+  braking: Float!
+  cornering: Float!
+  stability: Float!
+  price: Int
+  carManufacturerId: ID
+}
+
+input UpdateCarInput {
+  id: ID!
+  name: String
+  power: Int
+  weight: Int
+  drivetrain: String
+  division: String
+  speed: Float
+  acceleration: Float
+  braking: Float
+  cornering: Float
+  stability: Float
+  price: Int
+  carManufacturerId: ID
+}
+
+input DeleteCarInput {
+  id: ID
+}
+
+type ModelChampionshipConnection {
+  items: [Championship]
+  nextToken: String
+}
+
+input ModelChampionshipFilterInput {
+  id: ModelIDFilterInput
+  name: ModelStringFilterInput
+  and: [ModelChampionshipFilterInput]
+  or: [ModelChampionshipFilterInput]
+  not: ModelChampionshipFilterInput
+}
+
+input CreateChampionshipInput {
+  id: ID
+  name: String!
+}
+
+input UpdateChampionshipInput {
+  id: ID!
+  name: String
+}
+
+input DeleteChampionshipInput {
+  id: ID
+}
+
+type ModelRaceConnection {
+  items: [Race]
+  nextToken: String
+}
+
+input ModelRaceFilterInput {
+  id: ModelIDFilterInput
+  and: [ModelRaceFilterInput]
+  or: [ModelRaceFilterInput]
+  not: ModelRaceFilterInput
+}
+
+input CreateRaceInput {
+  id: ID
+  raceChampionshipId: ID
+  raceTrackId: ID!
+}
+
+input UpdateRaceInput {
+  id: ID!
+  raceChampionshipId: ID
+  raceTrackId: ID
+}
+
+input DeleteRaceInput {
+  id: ID
+}
+
+type ModelTrackConnection {
+  items: [Track]
+  nextToken: String
+}
+
+input ModelTrackFilterInput {
+  id: ModelIDFilterInput
+  name: ModelStringFilterInput
+  and: [ModelTrackFilterInput]
+  or: [ModelTrackFilterInput]
+  not: ModelTrackFilterInput
+}
+
+input CreateTrackInput {
+  id: ID
+  name: String!
+}
+
+input UpdateTrackInput {
+  id: ID!
+  name: String
+}
+
+input DeleteTrackInput {
+  id: ID
+}
