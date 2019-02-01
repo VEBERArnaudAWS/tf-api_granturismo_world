@@ -1,0 +1,29 @@
+variable "application" {
+  type = "string"
+
+  default = "gtsport"
+}
+
+variable "domain" {
+  type = "string"
+
+  default = "veber.io"
+}
+
+variable "env_names" {
+  type = "map"
+
+  default = {
+    "stg" = "staging"
+    "prd" = "prod"
+  }
+}
+
+variable "env_dns_zones_prefix" {
+  type = "map"
+
+  default = {
+    "stg" = "staging."
+    "prd" = ""
+  }
+}
