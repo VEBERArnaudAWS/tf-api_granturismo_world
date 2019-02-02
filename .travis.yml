@@ -7,6 +7,7 @@ env:
 
 before_install:
   - wget "https://releases.hashicorp.com/terraform/${TERRAFORM_VERSION}/terraform_${TERRAFORM_VERSION}_linux_amd64.zip" -O /tmp/terraform.zip
+  - mkdir -p .terraform/plugins/linux_amd64/ && tar -xzf bin/provider/terraform-provider-aws_v1.54.0_x4.tar.gz -C .terraform/plugins/linux_amd64/
 
 install:
   - unzip -d "${TERRAFORM_PATH}" /tmp/terraform.zip
