@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:27:35.517Z"
+  },
+  "id": {
+    "S": "f9a43c82-5fec-4351-8720-68d048dcc60b"
+  },
+  "name": {
+    "S": "Greddy"
+  },
+  "country": {
+    "S": "?"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:27:35.517Z"
+  }
+}

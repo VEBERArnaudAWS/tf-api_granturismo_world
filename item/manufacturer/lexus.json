@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:32:26.010Z"
+  },
+  "id": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "name": {
+    "S": "Lexus"
+  },
+  "country": {
+    "S": "Japan"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:32:26.010Z"
+  }
+}

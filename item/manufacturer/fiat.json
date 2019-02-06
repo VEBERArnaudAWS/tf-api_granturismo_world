@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:25:58.428Z"
+  },
+  "id": {
+    "S": "c8d88fd6-62e8-4ce3-af84-91f3fc4d734c"
+  },
+  "name": {
+    "S": "Fiat"
+  },
+  "country": {
+    "S": "Italy"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:25:58.428Z"
+  }
+}

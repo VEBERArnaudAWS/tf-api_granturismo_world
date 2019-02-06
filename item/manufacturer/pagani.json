@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:35:42.751Z"
+  },
+  "id": {
+    "S": "59c38c3e-0fb1-4cc5-8e98-2ab6d215be45"
+  },
+  "name": {
+    "S": "Pagani"
+  },
+  "country": {
+    "S": "Italy"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:35:42.751Z"
+  }
+}

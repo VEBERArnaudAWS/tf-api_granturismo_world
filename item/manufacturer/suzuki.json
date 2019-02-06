@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:37:46.307Z"
+  },
+  "id": {
+    "S": "1083935a-1b9a-4f2f-bc3d-25ddf31d477f"
+  },
+  "name": {
+    "S": "Suzuki"
+  },
+  "country": {
+    "S": "Japan"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:37:46.307Z"
+  }
+}

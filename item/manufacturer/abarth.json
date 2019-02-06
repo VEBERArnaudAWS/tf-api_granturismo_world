@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T10:23:41.023Z"
+  },
+  "id": {
+    "S": "0f537126-0147-4fd1-abaf-08d9822af9a0"
+  },
+  "name": {
+    "S": "Abarth"
+  },
+  "country": {
+    "S": "Italy"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:23:41.023Z"
+  }
+}

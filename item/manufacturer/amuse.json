@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:22:14.893Z"
+  },
+  "id": {
+    "S": "81b769b9-5a72-45c2-9077-e7fc835b4171"
+  },
+  "name": {
+    "S": "Amuse"
+  },
+  "country": {
+    "S": "Japan"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:22:14.893Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:28:11.480Z"
+  },
+  "id": {
+    "S": "d13e2657-246a-452e-bf69-1a29915f9614"
+  },
+  "name": {
+    "S": "GT Awards (SEMA)"
+  },
+  "country": {
+    "S": "?"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:28:11.480Z"
+  }
+}

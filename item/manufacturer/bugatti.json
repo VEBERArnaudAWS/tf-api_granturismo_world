@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:23:21.170Z"
+  },
+  "id": {
+    "S": "696b92e8-d40c-493c-a952-6ef5c80fe8a2"
+  },
+  "name": {
+    "S": "Bugatti"
+  },
+  "country": {
+    "S": "France"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:23:21.170Z"
+  }
+}

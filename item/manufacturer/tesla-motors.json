@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:38:07.033Z"
+  },
+  "id": {
+    "S": "3c6d5a2a-3cb3-44fd-a435-237f9b620f4b"
+  },
+  "name": {
+    "S": "Tesla Motors"
+  },
+  "country": {
+    "S": "United States"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:38:07.033Z"
+  }
+}

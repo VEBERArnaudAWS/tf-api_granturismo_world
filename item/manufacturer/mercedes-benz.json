@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:34:22.363Z"
+  },
+  "id": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "name": {
+    "S": "Mercedes-Benz"
+  },
+  "country": {
+    "S": "Germany"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:34:22.363Z"
+  }
+}

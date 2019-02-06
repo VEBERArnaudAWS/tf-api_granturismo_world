@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:33:18.810Z"
+  },
+  "id": {
+    "S": "4e97b85e-915b-47e5-bae9-518d83fbaf30"
+  },
+  "name": {
+    "S": "Maserati"
+  },
+  "country": {
+    "S": "Italy"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:33:18.810Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:39:57.131Z"
+  },
+  "id": {
+    "S": "25777fa2-b377-4984-a0fa-3370a49d6d6d"
+  },
+  "name": {
+    "S": "Zagato"
+  },
+  "country": {
+    "S": "Italy"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:39:57.131Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:31:02.028Z"
+  },
+  "id": {
+    "S": "955f8be6-83fb-4404-8fec-e7bfebc1c702"
+  },
+  "name": {
+    "S": "Jaguar"
+  },
+  "country": {
+    "S": "Great Britain"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:31:02.028Z"
+  }
+}

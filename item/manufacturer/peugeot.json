@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:35:58.069Z"
+  },
+  "id": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "name": {
+    "S": "Peugeot"
+  },
+  "country": {
+    "S": "France"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:35:58.069Z"
+  }
+}

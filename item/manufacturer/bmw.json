@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:23:12.213Z"
+  },
+  "id": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "name": {
+    "S": "BMW"
+  },
+  "country": {
+    "S": "Germany"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:23:12.213Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:30:46.728Z"
+  },
+  "id": {
+    "S": "28061c77-5f5a-49c9-8e2c-44b4600fe9c9"
+  },
+  "name": {
+    "S": "Infiniti"
+  },
+  "country": {
+    "S": "United States"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:30:46.728Z"
+  }
+}

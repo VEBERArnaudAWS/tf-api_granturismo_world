@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:29:12.530Z"
+  },
+  "id": {
+    "S": "b2cf2857-6469-4662-9a15-c3b91b6fdc28"
+  },
+  "name": {
+    "S": "Hyundai"
+  },
+  "country": {
+    "S": "Korea"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:29:12.530Z"
+  }
+}
