@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:03:35.582Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Atenza Sedan XD L Package"
+  },
+  "weight": {
+    "N": "1600"
+  },
+  "cornering": {
+    "N": "1.4"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.7"
+  },
+  "acceleration": {
+    "N": "5.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:03:35.582Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "175"
+  },
+  "speed": {
+    "N": "3.7"
+  },
+  "price": {
+    "N": "39690"
+  },
+  "id": {
+    "S": "9fc9a8d4-1c46-46a6-89ab-3bf439a2e5e0"
+  }
+}

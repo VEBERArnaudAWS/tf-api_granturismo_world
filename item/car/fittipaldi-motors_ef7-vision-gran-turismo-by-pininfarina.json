@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:37:39.038Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "Fittipaldi EF7 Vision Gran Turismo by Pininfarina"
+  },
+  "weight": {
+    "N": "1000"
+  },
+  "cornering": {
+    "N": "4.3"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.2"
+  },
+  "acceleration": {
+    "N": "5.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:37:39.038Z"
+  },
+  "carManufacturerId": {
+    "S": "c065e58e-e01e-4bf3-a238-ac4c6c4a8476"
+  },
+  "power": {
+    "N": "607"
+  },
+  "speed": {
+    "N": "7.5"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "89ee7431-3eab-445c-aeb2-ed94f6e54166"
+  }
+}

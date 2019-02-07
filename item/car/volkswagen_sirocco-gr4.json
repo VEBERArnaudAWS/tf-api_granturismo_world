@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T15:41:37.502Z"
+  },
+  "stability": {
+    "N": "7.2"
+  },
+  "name": {
+    "S": "Scirocco Gr.4"
+  },
+  "weight": {
+    "N": "1050"
+  },
+  "cornering": {
+    "N": "3.3"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.3"
+  },
+  "acceleration": {
+    "N": "3.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T15:41:37.502Z"
+  },
+  "carManufacturerId": {
+    "S": "4513c60d-7b80-48b8-82fe-8419ba47274f"
+  },
+  "power": {
+    "N": "364"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "fff3353f-113c-456e-bba5-df25f93f44e3"
+  }
+}

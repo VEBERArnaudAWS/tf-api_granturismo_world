@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:57:01.959Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "XNR Ghia Roadster"
+  },
+  "weight": {
+    "N": "1500"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.7"
+  },
+  "acceleration": {
+    "N": "2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:57:01.959Z"
+  },
+  "carManufacturerId": {
+    "S": "3386bf9a-af1c-4d56-897f-f3d5f4cd4fa9"
+  },
+  "power": {
+    "N": "254"
+  },
+  "speed": {
+    "N": "6.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "aa3f1623-54b4-47b5-b5f9-a720f8234a04"
+  }
+}

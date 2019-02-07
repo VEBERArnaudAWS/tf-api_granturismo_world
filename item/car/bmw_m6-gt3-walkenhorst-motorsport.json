@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:32:48.885Z"
+  },
+  "stability": {
+    "N": "6.2"
+  },
+  "name": {
+    "S": "BMW M6 GT3 (Walkenhorst Motorsport)"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:32:48.885Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "592"
+  },
+  "speed": {
+    "N": "6.6"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "a6c3ef65-44b2-4c9f-8b85-4628a3cf11db"
+  }
+}

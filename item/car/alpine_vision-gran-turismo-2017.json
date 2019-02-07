@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T16:46:05.052Z"
+  },
+  "stability": {
+    "N": "6.4"
+  },
+  "name": {
+    "S": "Alpine Vision Gran Turismo 2017"
+  },
+  "weight": {
+    "N": "930"
+  },
+  "cornering": {
+    "N": "6.1"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6.1"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T16:46:05.052Z"
+  },
+  "carManufacturerId": {
+    "S": "c167691b-adb0-4f31-ad5c-9393136a1638"
+  },
+  "power": {
+    "N": "603"
+  },
+  "speed": {
+    "N": "9.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "b6338e65-c09c-49d5-8789-50790360643f"
+  }
+}

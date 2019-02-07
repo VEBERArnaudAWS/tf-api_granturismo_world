@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:21:46.523Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "Sauber Mercedes C9"
+  },
+  "weight": {
+    "N": "893"
+  },
+  "cornering": {
+    "N": "6.1"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6"
+  },
+  "acceleration": {
+    "N": "7.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:21:46.523Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "940"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "40858921-7f10-4730-875c-07709e50a4d5"
+  }
+}

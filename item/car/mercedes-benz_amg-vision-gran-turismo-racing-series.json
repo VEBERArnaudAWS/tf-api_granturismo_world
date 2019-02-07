@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:20:32.609Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "Mercedes-Benz AMG Vision Gran Turismo Racing Series"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "3.9"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "5.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:20:32.609Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "599"
+  },
+  "speed": {
+    "N": "7.6"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "99333a61-ea32-4ac5-8505-c45a062db5c2"
+  }
+}

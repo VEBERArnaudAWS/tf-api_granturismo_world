@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:10:42.620Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "Toyota FT-1"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:10:42.620Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "493"
+  },
+  "speed": {
+    "N": "7.7"
+  },
+  "price": {
+    "N": "500000"
+  },
+  "id": {
+    "S": "67037fc0-ac71-40a2-a8a9-9e45bfa0aa10"
+  }
+}

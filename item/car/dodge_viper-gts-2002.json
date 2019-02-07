@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:13:56.665Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Viper GTS"
+  },
+  "weight": {
+    "N": "1569"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:13:56.665Z"
+  },
+  "carManufacturerId": {
+    "S": "f591f4e4-bead-4c06-af95-500acb5769c0"
+  },
+  "power": {
+    "N": "455"
+  },
+  "speed": {
+    "N": "7.9"
+  },
+  "price": {
+    "N": "90500"
+  },
+  "id": {
+    "S": "9e08ae55-cc14-4b1d-8dc6-a5ea3d307b18"
+  }
+}

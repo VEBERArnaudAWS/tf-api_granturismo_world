@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T13:03:28.455Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "Genesis Gr.3"
+  },
+  "weight": {
+    "N": "1250"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T13:03:28.455Z"
+  },
+  "carManufacturerId": {
+    "S": "b2cf2857-6469-4662-9a15-c3b91b6fdc28"
+  },
+  "power": {
+    "N": "517"
+  },
+  "speed": {
+    "N": "5.7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "c25918f6-667e-4106-8095-66c89eebb18a"
+  }
+}

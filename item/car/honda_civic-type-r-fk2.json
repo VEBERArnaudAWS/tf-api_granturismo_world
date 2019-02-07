@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:29:14.263Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "Civic Type R (FK2)"
+  },
+  "weight": {
+    "N": "1380"
+  },
+  "cornering": {
+    "N": "1.5"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.7"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:29:14.263Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "310"
+  },
+  "speed": {
+    "N": "6.2"
+  },
+  "price": {
+    "N": "42800"
+  },
+  "id": {
+    "S": "924aba1f-cf16-4d3b-9131-e9d0d941bd17"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T15:45:57.330Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "IsoRivolta Zagato Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1150"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T15:45:57.330Z"
+  },
+  "carManufacturerId": {
+    "S": "25777fa2-b377-4984-a0fa-3370a49d6d6d"
+  },
+  "power": {
+    "N": "567"
+  },
+  "speed": {
+    "N": "8.4"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "f0a3a567-8c1e-4ac3-8247-b6df0888e3d1"
+  }
+}

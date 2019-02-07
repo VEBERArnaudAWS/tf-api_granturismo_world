@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T08:11:19.703Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "au TOM’S RC F"
+  },
+  "weight": {
+    "N": "1020"
+  },
+  "cornering": {
+    "N": "5.5"
+  },
+  "division": {
+    "S": "Gr.2"
+  },
+  "braking": {
+    "N": "5.5"
+  },
+  "acceleration": {
+    "N": "6.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T08:11:19.703Z"
+  },
+  "carManufacturerId": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "power": {
+    "N": "623"
+  },
+  "speed": {
+    "N": "7.3"
+  },
+  "price": {
+    "N": "800000"
+  },
+  "id": {
+    "S": "8c7383fe-8e1d-4ef6-a85b-78b00b66e92c"
+  }
+}

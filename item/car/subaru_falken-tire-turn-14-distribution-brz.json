@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:36:04.004Z"
+  },
+  "stability": {
+    "N": "3.7"
+  },
+  "name": {
+    "S": "Falken Tire / Turn 14 Distribution BRZ"
+  },
+  "weight": {
+    "N": "1433"
+  },
+  "cornering": {
+    "N": "2.5"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.5"
+  },
+  "acceleration": {
+    "N": "3.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:36:04.004Z"
+  },
+  "carManufacturerId": {
+    "S": "55c9732e-3686-4e53-961e-5c85649c789d"
+  },
+  "power": {
+    "N": "1053"
+  },
+  "speed": {
+    "N": "4.9"
+  },
+  "price": {
+    "N": "400000"
+  },
+  "id": {
+    "S": "5fea1ba0-6aac-4360-924b-9b438ed66aff"
+  }
+}

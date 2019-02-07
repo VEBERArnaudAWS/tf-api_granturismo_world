@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:28:13.346Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "GTO"
+  },
+  "weight": {
+    "N": "1160"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:28:13.346Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "399"
+  },
+  "speed": {
+    "N": "8.4"
+  },
+  "price": {
+    "N": "1850000"
+  },
+  "id": {
+    "S": "31d61817-4bb3-4bdf-a885-99fe968c0dcb"
+  }
+}

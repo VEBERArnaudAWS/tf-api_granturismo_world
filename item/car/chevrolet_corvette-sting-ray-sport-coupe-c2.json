@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:04:32.511Z"
+  },
+  "stability": {
+    "N": "4.7"
+  },
+  "name": {
+    "S": "Corvette Sting Ray Sport Coupe (C2)"
+  },
+  "weight": {
+    "N": "1380"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:04:32.511Z"
+  },
+  "carManufacturerId": {
+    "S": "fbb8ae01-3f8d-4ba9-845d-a7a3ac8a5aeb"
+  },
+  "power": {
+    "N": "365"
+  },
+  "speed": {
+    "N": "5.3"
+  },
+  "price": {
+    "N": "100000"
+  },
+  "id": {
+    "S": "c88001e7-6516-45c9-a7b4-9cc4ffa9e927"
+  }
+}

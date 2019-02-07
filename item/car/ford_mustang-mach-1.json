@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:09:47.538Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "Mustang Mach 1"
+  },
+  "weight": {
+    "N": "1615"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:09:47.538Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "307"
+  },
+  "speed": {
+    "N": "2.7"
+  },
+  "price": {
+    "N": "50000"
+  },
+  "id": {
+    "S": "6acba481-31e9-47ff-b283-ec30881aeee7"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:59:28.141Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "4C Gr.3"
+  },
+  "weight": {
+    "N": "1220"
+  },
+  "cornering": {
+    "N": "3.9"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "5.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:59:28.141Z"
+  },
+  "carManufacturerId": {
+    "S": "3be660a9-39f0-485c-a091-836b277b9251"
+  },
+  "power": {
+    "N": "502"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "53ef7f8d-dc07-4422-b243-20940af8f866"
+  }
+}

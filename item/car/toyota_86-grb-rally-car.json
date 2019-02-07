@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:07:14.008Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "TOYOTA 86 Gr.B Rally Car"
+  },
+  "weight": {
+    "N": "1180"
+  },
+  "cornering": {
+    "N": "2.8"
+  },
+  "division": {
+    "S": "Gr.B"
+  },
+  "braking": {
+    "N": "3"
+  },
+  "acceleration": {
+    "N": "7.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:07:14.008Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "524"
+  },
+  "speed": {
+    "N": "5.7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "fcf120fe-2c1a-4427-bb1f-a7738f2b5ce4"
+  }
+}

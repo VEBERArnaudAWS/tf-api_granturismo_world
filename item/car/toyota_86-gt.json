@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:09:00.959Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "TOYOTA 86 GT"
+  },
+  "weight": {
+    "N": "1230"
+  },
+  "cornering": {
+    "N": "1.3"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.5"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:09:00.959Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "201"
+  },
+  "speed": {
+    "N": "4.8"
+  },
+  "price": {
+    "N": "29052"
+  },
+  "id": {
+    "S": "4fe9575d-9745-49bd-a37d-52105d744f52"
+  }
+}

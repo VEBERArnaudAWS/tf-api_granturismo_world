@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:45:28.585Z"
+  },
+  "stability": {
+    "N": "5.7"
+  },
+  "name": {
+    "S": "650S GT3"
+  },
+  "weight": {
+    "N": "1240"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:45:28.585Z"
+  },
+  "carManufacturerId": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "power": {
+    "N": "514"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "e2c450af-4d7e-4618-8776-0fa491438913"
+  }
+}

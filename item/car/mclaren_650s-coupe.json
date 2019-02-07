@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:40:15.414Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "650S Coupe"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "weight": {
+    "N": "1330"
+  },
+  "division": {
+    "S": "N700"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:54:57.871Z"
+  },
+  "carManufacturerId": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "power": {
+    "N": "650"
+  },
+  "speed": {
+    "N": "9.6"
+  },
+  "id": {
+    "S": "e1bb3aa8-a159-4d0b-9168-9bf31de583ac"
+  },
+  "price": {
+    "N": "340000"
+  }
+}

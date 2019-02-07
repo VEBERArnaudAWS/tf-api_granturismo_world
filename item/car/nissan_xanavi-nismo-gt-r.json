@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:00:18.445Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "XANAVI NISMO GT-R"
+  },
+  "weight": {
+    "N": "1100"
+  },
+  "cornering": {
+    "N": "5.1"
+  },
+  "division": {
+    "S": "Gr.2"
+  },
+  "braking": {
+    "N": "5.2"
+  },
+  "acceleration": {
+    "N": "5.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:00:18.445Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "501"
+  },
+  "speed": {
+    "N": "6.8"
+  },
+  "price": {
+    "N": "800000"
+  },
+  "id": {
+    "S": "b509fe47-c940-4271-82df-ef7e94634858"
+  }
+}

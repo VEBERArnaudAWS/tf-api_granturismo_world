@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:02:55.012Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Supra RZ"
+  },
+  "weight": {
+    "N": "1510"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:02:55.012Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "330"
+  },
+  "speed": {
+    "N": "7.2"
+  },
+  "price": {
+    "N": "45000"
+  },
+  "id": {
+    "S": "9f46600b-7a5e-4f8e-af89-40b2d0674904"
+  }
+}

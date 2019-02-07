@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T08:56:49.358Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "RC F Gr.4"
+  },
+  "weight": {
+    "N": "1400"
+  },
+  "cornering": {
+    "N": "3"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3"
+  },
+  "acceleration": {
+    "N": "4.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T08:56:49.358Z"
+  },
+  "carManufacturerId": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "power": {
+    "N": "425"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "b887bf97-528c-4789-b2b3-c00b779fe906"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T13:01:06.986Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "S660"
+  },
+  "weight": {
+    "N": "830"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T13:01:06.986Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "64"
+  },
+  "speed": {
+    "N": "2.9"
+  },
+  "price": {
+    "N": "19800"
+  },
+  "id": {
+    "S": "0b8c9fb1-246b-4f49-9a87-ea6b8a33993d"
+  }
+}

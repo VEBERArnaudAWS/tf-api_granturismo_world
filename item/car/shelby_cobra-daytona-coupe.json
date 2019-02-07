@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:30:02.027Z"
+  },
+  "stability": {
+    "N": "5.5"
+  },
+  "name": {
+    "S": "Shelby Cobra Daytona Coupe"
+  },
+  "weight": {
+    "N": "1043"
+  },
+  "cornering": {
+    "N": "3.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.2"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:30:02.027Z"
+  },
+  "carManufacturerId": {
+    "S": "3c8f4b07-2602-42b1-890a-7fa8a68b6bed"
+  },
+  "power": {
+    "N": "390"
+  },
+  "speed": {
+    "N": "6.5"
+  },
+  "price": {
+    "N": "15000000"
+  },
+  "id": {
+    "S": "c9438c83-3203-4160-89aa-1d24f3df49fb"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:14:38.020Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Clio R.S. 220 EDC Trophy '16"
+  },
+  "weight": {
+    "N": "1204"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:14:38.020Z"
+  },
+  "carManufacturerId": {
+    "S": "b981a17c-00d9-4f39-b36c-a35150254709"
+  },
+  "power": {
+    "N": "220"
+  },
+  "speed": {
+    "N": "5.3"
+  },
+  "price": {
+    "N": "35000"
+  },
+  "id": {
+    "S": "517adafd-246c-40ee-b3de-ed4e8daba500"
+  }
+}

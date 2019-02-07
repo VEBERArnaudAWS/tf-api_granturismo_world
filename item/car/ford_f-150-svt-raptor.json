@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:39:15.553Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "F-150 SVT Raptor"
+  },
+  "weight": {
+    "N": "2724"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2.2"
+  },
+  "acceleration": {
+    "N": "4.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:39:15.553Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "417"
+  },
+  "speed": {
+    "N": "4"
+  },
+  "price": {
+    "N": "55000"
+  },
+  "id": {
+    "S": "903ebd8b-1578-4980-b3fb-05b6cf2877d7"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:08:52.591Z"
+  },
+  "stability": {
+    "N": "7.1"
+  },
+  "name": {
+    "S": "Audi Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1250"
+  },
+  "cornering": {
+    "N": "5.6"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "5.6"
+  },
+  "acceleration": {
+    "N": "9.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:08:52.591Z"
+  },
+  "carManufacturerId": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "power": {
+    "N": "746"
+  },
+  "speed": {
+    "N": "9.8"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "09341e54-8b0d-4f1c-b3c7-7e0ae5b95fe1"
+  }
+}

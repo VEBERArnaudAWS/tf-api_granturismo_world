@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:20:34.767Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "458 Italia"
+  },
+  "weight": {
+    "N": "1485"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:20:34.767Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "571"
+  },
+  "speed": {
+    "N": "9.3"
+  },
+  "price": {
+    "N": "283000"
+  },
+  "id": {
+    "S": "ad9bd4d7-9b7e-4fdd-8d66-82a99961896f"
+  }
+}

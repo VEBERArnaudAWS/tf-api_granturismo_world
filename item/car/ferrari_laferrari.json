@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:29:05.223Z"
+  },
+  "stability": {
+    "N": "4.1"
+  },
+  "name": {
+    "S": "LaFerrari"
+  },
+  "weight": {
+    "N": "1255"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "N1000"
+  },
+  "braking": {
+    "N": "2.3"
+  },
+  "acceleration": {
+    "N": "4.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:29:05.223Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "963"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1600000"
+  },
+  "id": {
+    "S": "c7cd4bc6-5d06-4bc0-abe0-66ff9457d200"
+  }
+}

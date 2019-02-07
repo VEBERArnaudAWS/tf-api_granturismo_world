@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:14:15.881Z"
+  },
+  "stability": {
+    "N": "4.3"
+  },
+  "name": {
+    "S": "Mercedes-AMG F1 W08 EQ Power+ (Color Variation)"
+  },
+  "weight": {
+    "N": "728"
+  },
+  "cornering": {
+    "N": "7.9"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "7.9"
+  },
+  "acceleration": {
+    "N": "8.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:14:15.881Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "912"
+  },
+  "speed": {
+    "N": "9.1"
+  },
+  "price": {
+    "N": "2000000"
+  },
+  "id": {
+    "S": "dfa8ca59-fdef-4567-a5ca-da5af262b94e"
+  }
+}

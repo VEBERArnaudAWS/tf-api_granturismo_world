@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T16:47:02.543Z"
+  },
+  "stability": {
+    "N": "6.8"
+  },
+  "name": {
+    "S": "Alpine Vision Gran Turismo Race Mode"
+  },
+  "weight": {
+    "N": "900"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "5.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T16:47:02.543Z"
+  },
+  "carManufacturerId": {
+    "S": "c167691b-adb0-4f31-ad5c-9393136a1638"
+  },
+  "power": {
+    "N": "450"
+  },
+  "speed": {
+    "N": "6.8"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "3a9f0720-c4c1-4cf3-9300-3a9f3f7bccf5"
+  }
+}

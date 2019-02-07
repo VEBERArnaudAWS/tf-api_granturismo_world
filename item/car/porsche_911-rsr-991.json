@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:09:03.925Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "911 RSR (991)"
+  },
+  "weight": {
+    "N": "1243"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "4.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:09:03.925Z"
+  },
+  "carManufacturerId": {
+    "S": "90574e81-f742-4693-b347-9de011e8265d"
+  },
+  "power": {
+    "N": "517"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "30009a62-3bf8-4fa8-8c02-7aa19e45723b"
+  }
+}

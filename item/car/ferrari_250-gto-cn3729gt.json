@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:18:19.566Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "250 GTO  CN.3729GT"
+  },
+  "weight": {
+    "N": "880"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.4"
+  },
+  "acceleration": {
+    "N": "4.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:18:19.566Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "300"
+  },
+  "speed": {
+    "N": "5.7"
+  },
+  "price": {
+    "N": "20000000"
+  },
+  "id": {
+    "S": "c79fe316-9b19-4776-b3ae-4df5fa24f5e3"
+  }
+}

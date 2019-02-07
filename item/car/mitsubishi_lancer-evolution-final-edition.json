@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:33:05.284Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Lancer Evolution Final Edition"
+  },
+  "weight": {
+    "N": "1530"
+  },
+  "cornering": {
+    "N": "1.5"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.8"
+  },
+  "acceleration": {
+    "N": "5.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:33:05.284Z"
+  },
+  "carManufacturerId": {
+    "S": "2e2c5624-1c75-4a8a-98a3-99918ae0eb21"
+  },
+  "power": {
+    "N": "314"
+  },
+  "speed": {
+    "N": "5.6"
+  },
+  "price": {
+    "N": "43000"
+  },
+  "id": {
+    "S": "7ffe1aaa-8893-4cd7-a067-1e1af09718b5"
+  }
+}

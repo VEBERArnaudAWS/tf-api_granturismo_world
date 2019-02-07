@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:44:26.063Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "GT40 Mark I"
+  },
+  "weight": {
+    "N": "1080"
+  },
+  "cornering": {
+    "N": "2.2"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2.2"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:44:26.063Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "359"
+  },
+  "speed": {
+    "N": "6.7"
+  },
+  "price": {
+    "N": "2800000"
+  },
+  "id": {
+    "S": "ed89592c-a66d-4725-bede-5d838fe3dab2"
+  }
+}

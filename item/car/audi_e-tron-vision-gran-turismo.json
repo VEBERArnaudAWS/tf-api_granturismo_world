@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:01:44.975Z"
+  },
+  "stability": {
+    "N": "7.8"
+  },
+  "name": {
+    "S": "Audi e-tron Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1450"
+  },
+  "cornering": {
+    "N": "5.4"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "5.4"
+  },
+  "acceleration": {
+    "N": "9"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:01:44.975Z"
+  },
+  "carManufacturerId": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "power": {
+    "N": "815"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "03a8f8a0-2ebd-4409-b693-32d8a6e95a16"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:41:24.642Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Fairlady Z 300ZX TwinTurbo 2 seater (Z32)"
+  },
+  "weight": {
+    "N": "1510"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:41:24.642Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "280"
+  },
+  "speed": {
+    "N": "6.9"
+  },
+  "price": {
+    "N": "39500"
+  },
+  "id": {
+    "S": "34633594-a75a-4d01-9eb1-c73e909c1092"
+  }
+}

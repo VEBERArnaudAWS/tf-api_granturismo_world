@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T06:56:30.673Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "F-type R Coupé"
+  },
+  "weight": {
+    "N": "1650"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T06:56:30.673Z"
+  },
+  "carManufacturerId": {
+    "S": "955f8be6-83fb-4404-8fec-e7bfebc1c702"
+  },
+  "power": {
+    "N": "550"
+  },
+  "speed": {
+    "N": "8.9"
+  },
+  "price": {
+    "N": "128600"
+  },
+  "id": {
+    "S": "72db257e-b340-4137-a052-3526f93aaddc"
+  }
+}

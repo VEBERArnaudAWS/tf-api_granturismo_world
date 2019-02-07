@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:15:48.597Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "RX500"
+  },
+  "weight": {
+    "N": "850"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:15:48.597Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "251"
+  },
+  "speed": {
+    "N": "5.7"
+  },
+  "price": {
+    "N": "500000"
+  },
+  "id": {
+    "S": "8e341f76-224c-4f8e-b53f-3fd1597dffbd"
+  }
+}

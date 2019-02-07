@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:35:21.402Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "Integra Type R (DC2)"
+  },
+  "weight": {
+    "N": "1080"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:35:21.402Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "201"
+  },
+  "speed": {
+    "N": "5.2"
+  },
+  "price": {
+    "N": "23600"
+  },
+  "id": {
+    "S": "091b9c7d-52c6-4f02-90ea-f27825ff711b"
+  }
+}

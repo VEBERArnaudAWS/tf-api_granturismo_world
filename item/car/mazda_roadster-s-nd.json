@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:14:42.825Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Roadster S (ND)"
+  },
+  "weight": {
+    "N": "990"
+  },
+  "cornering": {
+    "N": "1.1"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.3"
+  },
+  "acceleration": {
+    "N": "2.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:14:42.825Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "130"
+  },
+  "speed": {
+    "N": "4.1"
+  },
+  "price": {
+    "N": "24950"
+  },
+  "id": {
+    "S": "17b89c15-26a3-454e-983d-4df000cf1cf6"
+  }
+}

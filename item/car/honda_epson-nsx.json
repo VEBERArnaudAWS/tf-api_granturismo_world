@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:30:19.294Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "EPSON NSX"
+  },
+  "weight": {
+    "N": "1150"
+  },
+  "cornering": {
+    "N": "5"
+  },
+  "division": {
+    "S": "Gr.2"
+  },
+  "braking": {
+    "N": "5"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:30:19.294Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "518"
+  },
+  "speed": {
+    "N": "7.1"
+  },
+  "price": {
+    "N": "800000"
+  },
+  "id": {
+    "S": "d92f20fe-bdf5-4460-bb7f-fab49f85de70"
+  }
+}

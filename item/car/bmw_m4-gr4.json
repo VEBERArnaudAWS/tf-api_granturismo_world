@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:27:46.894Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "BMW M4 Gr.4"
+  },
+  "weight": {
+    "N": "1365"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "4.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:27:46.894Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "400"
+  },
+  "speed": {
+    "N": "6.2"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "e7087087-18cf-495d-8aad-499fc7d5e610"
+  }
+}

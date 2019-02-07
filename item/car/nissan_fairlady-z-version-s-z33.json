@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:42:28.327Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "Fairlady Z Version S (Z33)"
+  },
+  "weight": {
+    "N": "1480"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:42:28.327Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "315"
+  },
+  "speed": {
+    "N": "7"
+  },
+  "price": {
+    "N": "36300"
+  },
+  "id": {
+    "S": "8ee06006-7dc4-4cab-bc87-feb6e33d3615"
+  }
+}

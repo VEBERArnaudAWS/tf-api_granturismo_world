@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T16:53:45.721Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "DB11"
+  },
+  "weight": {
+    "N": "1770"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T16:53:45.721Z"
+  },
+  "carManufacturerId": {
+    "S": "cdd6cd80-e937-4ac6-85e6-088c6bfb3ec4"
+  },
+  "power": {
+    "N": "608"
+  },
+  "speed": {
+    "N": "9.2"
+  },
+  "price": {
+    "N": "238000"
+  },
+  "id": {
+    "S": "a53c73c7-6e6f-4d7b-8dbf-aeef37d8fc65"
+  }
+}

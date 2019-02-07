@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:17:03.979Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "Viper SRT GT3-R"
+  },
+  "weight": {
+    "N": "1290"
+  },
+  "cornering": {
+    "N": "3.9"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "5.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:17:03.979Z"
+  },
+  "carManufacturerId": {
+    "S": "f591f4e4-bead-4c06-af95-500acb5769c0"
+  },
+  "power": {
+    "N": "688"
+  },
+  "speed": {
+    "N": "7.3"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "5c73f6f5-7b41-45ab-986b-c32714086d52"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:55:40.385Z"
+  },
+  "stability": {
+    "N": "6.3"
+  },
+  "name": {
+    "S": "R92CP"
+  },
+  "weight": {
+    "N": "900"
+  },
+  "cornering": {
+    "N": "5.9"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "5.9"
+  },
+  "acceleration": {
+    "N": "7.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:55:40.385Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "952"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "b97ceca4-b9b7-45fd-8c2c-fc808c9f4555"
+  }
+}

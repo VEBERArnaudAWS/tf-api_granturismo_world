@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T06:59:18.206Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "Jaguar XJR-9"
+  },
+  "weight": {
+    "N": "894"
+  },
+  "cornering": {
+    "N": "5.8"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "5.7"
+  },
+  "acceleration": {
+    "N": "7.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T06:59:18.206Z"
+  },
+  "carManufacturerId": {
+    "S": "955f8be6-83fb-4404-8fec-e7bfebc1c702"
+  },
+  "power": {
+    "N": "927"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "8631e899-f721-416d-8504-6ebf38443d82"
+  }
+}

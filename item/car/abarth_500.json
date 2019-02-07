@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:56:36.949Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "500"
+  },
+  "weight": {
+    "N": "1035"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:56:36.949Z"
+  },
+  "carManufacturerId": {
+    "S": "0f537126-0147-4fd1-abaf-08d9822af9a0"
+  },
+  "power": {
+    "N": "135"
+  },
+  "speed": {
+    "N": "3.9"
+  },
+  "price": {
+    "N": "29500"
+  },
+  "id": {
+    "S": "b47015b7-d5bf-46bb-9252-fe6e44ebcea4"
+  }
+}

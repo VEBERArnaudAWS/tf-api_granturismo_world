@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:22:43.771Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "Pantera"
+  },
+  "weight": {
+    "N": "1420"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:22:43.771Z"
+  },
+  "carManufacturerId": {
+    "S": "3d7c88b0-1095-4111-b08e-60ec7fa5b5df"
+  },
+  "power": {
+    "N": "330"
+  },
+  "speed": {
+    "N": "6.2"
+  },
+  "price": {
+    "N": "200000"
+  },
+  "id": {
+    "S": "7cc63ecd-2222-4c68-b423-b12b6d946a02"
+  }
+}

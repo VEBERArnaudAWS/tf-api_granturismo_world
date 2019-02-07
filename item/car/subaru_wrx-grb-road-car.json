@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:47:26.253Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "WRX Gr.B Road Car"
+  },
+  "weight": {
+    "N": "1425"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.4"
+  },
+  "acceleration": {
+    "N": "5.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:47:26.253Z"
+  },
+  "carManufacturerId": {
+    "S": "55c9732e-3686-4e53-961e-5c85649c789d"
+  },
+  "power": {
+    "N": "480"
+  },
+  "speed": {
+    "N": "4.9"
+  },
+  "id": {
+    "S": "c98502db-db0e-4b63-ac90-8bbd596c185c"
+  }
+}

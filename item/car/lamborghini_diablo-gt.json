@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:07:56.430Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Diablo GT"
+  },
+  "weight": {
+    "N": "1490"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:07:56.430Z"
+  },
+  "carManufacturerId": {
+    "S": "85c6ac3b-ae59-40d4-8ec1-58cc0ffd3915"
+  },
+  "power": {
+    "N": "580"
+  },
+  "speed": {
+    "N": "7.9"
+  },
+  "price": {
+    "N": "300000"
+  },
+  "id": {
+    "S": "cc3c6ff2-cc08-46f7-a775-20b93a4567e1"
+  }
+}

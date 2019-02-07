@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:27:16.679Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "F50"
+  },
+  "weight": {
+    "N": "1230"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:27:16.679Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "519"
+  },
+  "speed": {
+    "N": "8.6"
+  },
+  "price": {
+    "N": "1900000"
+  },
+  "id": {
+    "S": "2d0ab64a-e2a7-43e1-8fe4-da451fef6e66"
+  }
+}

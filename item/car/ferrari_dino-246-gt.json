@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:24:18.489Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "Dino 246 GT"
+  },
+  "weight": {
+    "N": "1080"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:24:18.489Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "194"
+  },
+  "speed": {
+    "N": "5.9"
+  },
+  "price": {
+    "N": "500000"
+  },
+  "id": {
+    "S": "bce7ccc4-92ba-4a7b-8922-5d079a73466e"
+  }
+}

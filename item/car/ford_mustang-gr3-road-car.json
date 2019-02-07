@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:08:38.944Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "Mustang Gr.3 Road Car"
+  },
+  "weight": {
+    "N": "1500"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "?"
+  },
+  "braking": {
+    "N": "2.4"
+  },
+  "acceleration": {
+    "N": "3.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:08:38.944Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "510"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "id": {
+    "S": "5434481c-f96a-4202-a99a-40f7449580d1"
+  }
+}

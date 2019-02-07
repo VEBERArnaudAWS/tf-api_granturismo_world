@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:02:10.562Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "Zonda R"
+  },
+  "weight": {
+    "N": "1070"
+  },
+  "cornering": {
+    "N": "3.8"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.8"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:02:10.562Z"
+  },
+  "carManufacturerId": {
+    "S": "59c38c3e-0fb1-4cc5-8e98-2ab6d215be45"
+  },
+  "power": {
+    "N": "748"
+  },
+  "speed": {
+    "N": "8.7"
+  },
+  "price": {
+    "N": "1800000"
+  },
+  "id": {
+    "S": "0e2b12e7-34f7-48e8-9e2d-e4bb444a1538"
+  }
+}

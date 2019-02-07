@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T08:17:13.088Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "PETRONAS TOM'S SC430"
+  },
+  "weight": {
+    "N": "1100"
+  },
+  "cornering": {
+    "N": "5.1"
+  },
+  "division": {
+    "S": "Gr.2"
+  },
+  "braking": {
+    "N": "5.2"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T08:17:13.088Z"
+  },
+  "carManufacturerId": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "power": {
+    "N": "494"
+  },
+  "speed": {
+    "N": "6.7"
+  },
+  "price": {
+    "N": "800000"
+  },
+  "id": {
+    "S": "72d3be96-5669-4eb3-b69a-9aeb63eb8c92"
+  }
+}

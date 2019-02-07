@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:48:50.660Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "GT-R Premium edition"
+  },
+  "weight": {
+    "N": "1770"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "6.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:48:50.660Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "572"
+  },
+  "speed": {
+    "N": "9"
+  },
+  "price": {
+    "N": "94770"
+  },
+  "id": {
+    "S": "e3f2fdc6-192f-4ea5-b7b2-841247db18a5"
+  }
+}

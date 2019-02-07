@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:53:12.928Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "RCZ GT Line"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "1.5"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.7"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:53:12.928Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "155"
+  },
+  "speed": {
+    "N": "4.6"
+  },
+  "price": {
+    "N": "46600"
+  },
+  "id": {
+    "S": "aef0566c-aad9-4631-9f43-8a73d9bc80fd"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T15:37:50.154Z"
+  },
+  "stability": {
+    "N": "6.9"
+  },
+  "name": {
+    "S": "GTI Supersport Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1200"
+  },
+  "cornering": {
+    "N": "3.8"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.8"
+  },
+  "acceleration": {
+    "N": "7.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T15:37:50.154Z"
+  },
+  "carManufacturerId": {
+    "S": "4513c60d-7b80-48b8-82fe-8419ba47274f"
+  },
+  "power": {
+    "N": "559"
+  },
+  "speed": {
+    "N": "7.4"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "d00c0bc8-c391-4b2f-96b9-ffbf4d73e8c3"
+  }
+}

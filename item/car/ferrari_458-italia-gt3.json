@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:22:30.523Z"
+  },
+  "stability": {
+    "N": "5.5"
+  },
+  "name": {
+    "S": "458 Italia GT3"
+  },
+  "weight": {
+    "N": "1215"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:22:30.523Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "550"
+  },
+  "speed": {
+    "N": "6.5"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "f0b7acd6-d30c-419f-b30f-fe7ee647e216"
+  }
+}

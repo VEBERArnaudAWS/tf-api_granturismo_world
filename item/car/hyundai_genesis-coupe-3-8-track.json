@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T13:02:34.795Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Genesis Coupe 3.8 Track"
+  },
+  "weight": {
+    "N": "1557"
+  },
+  "cornering": {
+    "N": "1.5"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.7"
+  },
+  "acceleration": {
+    "N": "3.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T13:02:34.795Z"
+  },
+  "carManufacturerId": {
+    "S": "b2cf2857-6469-4662-9a15-c3b91b6fdc28"
+  },
+  "power": {
+    "N": "348"
+  },
+  "speed": {
+    "N": "7.1"
+  },
+  "price": {
+    "N": "33000"
+  },
+  "id": {
+    "S": "98d8b050-42d3-42f8-962c-faad94e5025e"
+  }
+}

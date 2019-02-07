@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:14:18.062Z"
+  },
+  "stability": {
+    "N": "7.2"
+  },
+  "name": {
+    "S": "RCZ Gr.4"
+  },
+  "weight": {
+    "N": "1225"
+  },
+  "cornering": {
+    "N": "3.3"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.2"
+  },
+  "acceleration": {
+    "N": "3.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:14:18.062Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "350"
+  },
+  "speed": {
+    "N": "5.8"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "fe202102-f225-4d48-a401-2041cb9effd8"
+  }
+}

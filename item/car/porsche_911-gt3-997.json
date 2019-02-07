@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:07:21.390Z"
+  },
+  "stability": {
+    "N": "5.7"
+  },
+  "name": {
+    "S": "911 GT3 (997)"
+  },
+  "weight": {
+    "N": "1395"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:07:21.390Z"
+  },
+  "carManufacturerId": {
+    "S": "90574e81-f742-4693-b347-9de011e8265d"
+  },
+  "power": {
+    "N": "434"
+  },
+  "speed": {
+    "N": "8.7"
+  },
+  "price": {
+    "N": "160000"
+  },
+  "id": {
+    "S": "1a05582c-c968-417f-8480-f7411fbbf20f"
+  }
+}

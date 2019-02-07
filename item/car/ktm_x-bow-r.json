@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:01:36.002Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "X-BOW R"
+  },
+  "weight": {
+    "N": "790"
+  },
+  "cornering": {
+    "N": "2.5"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2.5"
+  },
+  "acceleration": {
+    "N": "4.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:01:36.002Z"
+  },
+  "carManufacturerId": {
+    "S": "c84f7cbe-d50c-4fe4-ba08-fedd74c32dc5"
+  },
+  "power": {
+    "N": "303"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "100000"
+  },
+  "id": {
+    "S": "6042bfd2-eb95-4dd3-85a2-7b0a5ee67845"
+  }
+}

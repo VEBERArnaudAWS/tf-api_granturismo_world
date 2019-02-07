@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:17:42.192Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Miura P400 Bertone Prototype  CN.0706"
+  },
+  "weight": {
+    "N": "980"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:17:42.192Z"
+  },
+  "carManufacturerId": {
+    "S": "85c6ac3b-ae59-40d4-8ec1-58cc0ffd3915"
+  },
+  "power": {
+    "N": "354"
+  },
+  "speed": {
+    "N": "7.6"
+  },
+  "price": {
+    "N": "15000000"
+  },
+  "id": {
+    "S": "5a4aa627-4475-478e-a736-f81f1441d486"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:37:29.764Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Impreza 22B-STi Version"
+  },
+  "weight": {
+    "N": "1270"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "6.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:37:29.764Z"
+  },
+  "carManufacturerId": {
+    "S": "55c9732e-3686-4e53-961e-5c85649c789d"
+  },
+  "power": {
+    "N": "294"
+  },
+  "speed": {
+    "N": "5.3"
+  },
+  "price": {
+    "N": "50000"
+  },
+  "id": {
+    "S": "6b141119-0539-48ba-b095-b849932153a4"
+  }
+}

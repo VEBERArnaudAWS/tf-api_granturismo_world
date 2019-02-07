@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:14:29.268Z"
+  },
+  "stability": {
+    "N": "6.3"
+  },
+  "name": {
+    "S": "Gran Turismo Red Bull X2014 Junior"
+  },
+  "weight": {
+    "N": "550"
+  },
+  "cornering": {
+    "N": "5.9"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "5.9"
+  },
+  "acceleration": {
+    "N": "6.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:14:29.268Z"
+  },
+  "carManufacturerId": {
+    "S": "ec0bdbea-881f-4912-9630-7bb2c354106a"
+  },
+  "power": {
+    "N": "250"
+  },
+  "speed": {
+    "N": "6.2"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "99f69fa6-85a3-4307-a128-0a36ac756030"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-29T13:06:26.279Z"
+  },
+  "stability": {
+    "N": "5.8"
+  },
+  "name": {
+    "S": "HYUNDAI N 2025 Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "972"
+  },
+  "cornering": {
+    "N": "4.5"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.4"
+  },
+  "acceleration": {
+    "N": "3.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T13:06:26.279Z"
+  },
+  "carManufacturerId": {
+    "S": "b2cf2857-6469-4662-9a15-c3b91b6fdc28"
+  },
+  "power": {
+    "N": "883"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "aeba6d31-314e-42dd-8b7b-851141ad3569"
+  }
+}

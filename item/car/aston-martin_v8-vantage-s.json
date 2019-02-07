@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T17:13:02.502Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "V8 Vantage S"
+  },
+  "weight": {
+    "N": "1610"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T17:13:02.502Z"
+  },
+  "carManufacturerId": {
+    "S": "cdd6cd80-e937-4ac6-85e6-088c6bfb3ec4"
+  },
+  "power": {
+    "N": "436"
+  },
+  "speed": {
+    "N": "7.9"
+  },
+  "price": {
+    "N": "180000"
+  },
+  "id": {
+    "S": "859df6a2-64b3-4ccf-a91e-7affffaefddd"
+  }
+}

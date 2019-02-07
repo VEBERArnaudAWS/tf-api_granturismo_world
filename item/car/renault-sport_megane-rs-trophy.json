@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:21:14.850Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Mégane R.S. Trophy"
+  },
+  "weight": {
+    "N": "1387"
+  },
+  "cornering": {
+    "N": "1.4"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.7"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:21:14.850Z"
+  },
+  "carManufacturerId": {
+    "S": "b981a17c-00d9-4f39-b36c-a35150254709"
+  },
+  "power": {
+    "N": "265"
+  },
+  "speed": {
+    "N": "5.1"
+  },
+  "price": {
+    "N": "38500"
+  },
+  "id": {
+    "S": "fa9b3fed-2801-44e8-afbd-4391911efad6"
+  }
+}

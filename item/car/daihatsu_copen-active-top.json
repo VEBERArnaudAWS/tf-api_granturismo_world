@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:18:23.807Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "Copen Active Top"
+  },
+  "weight": {
+    "N": "830"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.8"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:18:23.807Z"
+  },
+  "carManufacturerId": {
+    "S": "522e7237-194b-4adc-9dc5-4932a884352c"
+  },
+  "power": {
+    "N": "63"
+  },
+  "speed": {
+    "N": "2.7"
+  },
+  "price": {
+    "N": "15000"
+  },
+  "id": {
+    "S": "309789df-7222-47ef-a635-079d1c13499d"
+  }
+}

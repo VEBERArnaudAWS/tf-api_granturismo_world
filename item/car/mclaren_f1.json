@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:46:56.723Z"
+  },
+  "stability": {
+    "N": "5.7"
+  },
+  "name": {
+    "S": "McLaren F1"
+  },
+  "weight": {
+    "N": "1140"
+  },
+  "cornering": {
+    "N": "2.5"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2.5"
+  },
+  "acceleration": {
+    "N": "5.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:46:56.723Z"
+  },
+  "carManufacturerId": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "power": {
+    "N": "635"
+  },
+  "speed": {
+    "N": "9.1"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "25680328-2491-43e7-ae30-ac8968cc5dd0"
+  }
+}

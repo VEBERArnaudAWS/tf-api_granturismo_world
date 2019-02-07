@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T13:04:27.627Z"
+  },
+  "stability": {
+    "N": "5.5"
+  },
+  "name": {
+    "S": "GIULIA TZ2 carrozzata da ZAGATO CN.AR750106"
+  },
+  "weight": {
+    "N": "620"
+  },
+  "cornering": {
+    "N": "3.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.2"
+  },
+  "acceleration": {
+    "N": "4.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T13:04:27.627Z"
+  },
+  "carManufacturerId": {
+    "S": "3be660a9-39f0-485c-a091-836b277b9251"
+  },
+  "power": {
+    "N": "171"
+  },
+  "speed": {
+    "N": "5.6"
+  },
+  "price": {
+    "N": "10000000"
+  },
+  "id": {
+    "S": "195ce8b8-6a90-4be2-97b1-3d1b09e4c76b"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:07:44.079Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "DS3 Racing"
+  },
+  "weight": {
+    "N": "1165"
+  },
+  "cornering": {
+    "N": "1.2"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.5"
+  },
+  "acceleration": {
+    "N": "2.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:07:44.079Z"
+  },
+  "carManufacturerId": {
+    "S": "b3b3f1e7-bab3-4a16-9be6-5491f58cf395"
+  },
+  "power": {
+    "N": "206"
+  },
+  "speed": {
+    "N": "5.2"
+  },
+  "price": {
+    "N": "36000"
+  },
+  "id": {
+    "S": "2db1ed7b-9d99-44b4-b09a-d45d60b3120d"
+  }
+}

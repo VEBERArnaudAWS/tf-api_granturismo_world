@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:10:51.278Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "GT by Citroën Race Car (Gr.3)"
+  },
+  "weight": {
+    "N": "1200"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:10:51.278Z"
+  },
+  "carManufacturerId": {
+    "S": "b3b3f1e7-bab3-4a16-9be6-5491f58cf395"
+  },
+  "power": {
+    "N": "608"
+  },
+  "speed": {
+    "N": "7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "68be7f98-6cff-4abb-ac32-e9f948acbfac"
+  }
+}

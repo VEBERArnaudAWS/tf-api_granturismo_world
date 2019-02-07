@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:39:07.641Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "SUBARU VIZIV GT Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1380"
+  },
+  "cornering": {
+    "N": "3.5"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.6"
+  },
+  "acceleration": {
+    "N": "7.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:39:07.641Z"
+  },
+  "carManufacturerId": {
+    "S": "55c9732e-3686-4e53-961e-5c85649c789d"
+  },
+  "power": {
+    "N": "639"
+  },
+  "speed": {
+    "N": "8.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "1b416980-1eea-4208-8e17-15e83ae76442"
+  }
+}

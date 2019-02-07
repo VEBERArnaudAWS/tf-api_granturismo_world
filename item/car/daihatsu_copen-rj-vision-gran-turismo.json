@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:20:24.078Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "DAIHATSU COPEN RJ Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "600"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "1.8"
+  },
+  "acceleration": {
+    "N": "2.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:20:24.078Z"
+  },
+  "carManufacturerId": {
+    "S": "522e7237-194b-4adc-9dc5-4932a884352c"
+  },
+  "power": {
+    "N": "149"
+  },
+  "speed": {
+    "N": "3.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "0b7ee588-55fa-4761-8e2a-25f4e52c29b0"
+  }
+}

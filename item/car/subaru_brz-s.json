@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:34:39.883Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "BRZ S"
+  },
+  "weight": {
+    "N": "1230"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:34:39.883Z"
+  },
+  "carManufacturerId": {
+    "S": "55c9732e-3686-4e53-961e-5c85649c789d"
+  },
+  "power": {
+    "N": "201"
+  },
+  "speed": {
+    "N": "4.8"
+  },
+  "price": {
+    "N": "30000"
+  },
+  "id": {
+    "S": "d1867771-3ba8-46a6-9790-7632424bed4e"
+  }
+}

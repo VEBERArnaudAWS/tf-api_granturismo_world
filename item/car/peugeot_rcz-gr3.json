@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:12:59.251Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "RCZ Gr.3"
+  },
+  "weight": {
+    "N": "1200"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "5.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:12:59.251Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "524"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "be38af4e-ee9d-40d8-b5ee-2ec57f835885"
+  }
+}

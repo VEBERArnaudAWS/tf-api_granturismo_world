@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:19:46.011Z"
+  },
+  "stability": {
+    "N": "4.4"
+  },
+  "name": {
+    "S": "Chris Holstrom Concepts"
+  },
+  "weight": {
+    "N": "1366"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N700"
+  },
+  "braking": {
+    "N": "2.2"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:19:46.011Z"
+  },
+  "carManufacturerId": {
+    "S": "d13e2657-246a-452e-bf69-1a29915f9614"
+  },
+  "power": {
+    "N": "743"
+  },
+  "speed": {
+    "N": "8.7"
+  },
+  "price": {
+    "N": "300000"
+  },
+  "id": {
+    "S": "a5b2cd95-749e-4ce0-bcb7-10536defe0b9"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:50:54.192Z"
+  },
+  "stability": {
+    "N": "5.8"
+  },
+  "name": {
+    "S": "Chevrolet Chaparral 2X Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "450"
+  },
+  "cornering": {
+    "N": "4.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.3"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:50:54.192Z"
+  },
+  "carManufacturerId": {
+    "S": "9c308719-2fa9-4eb5-8283-a0899f838dc4"
+  },
+  "power": {
+    "N": "918"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "c98020f4-4107-4053-b394-ef5d26884beb"
+  }
+}

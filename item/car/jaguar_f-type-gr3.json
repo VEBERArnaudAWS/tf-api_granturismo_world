@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T06:54:07.811Z"
+  },
+  "stability": {
+    "N": "6.2"
+  },
+  "name": {
+    "S": "F-type Gr.3"
+  },
+  "weight": {
+    "N": "1250"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "5.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T06:54:07.811Z"
+  },
+  "carManufacturerId": {
+    "S": "955f8be6-83fb-4404-8fec-e7bfebc1c702"
+  },
+  "power": {
+    "N": "559"
+  },
+  "speed": {
+    "N": "6.7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "b14f83f6-8cfc-4f0d-818d-c8a7f93dbe0d"
+  }
+}

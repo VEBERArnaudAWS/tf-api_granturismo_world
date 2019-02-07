@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:54:51.244Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Mustang Gr.B Rally Car"
+  },
+  "weight": {
+    "N": "1380"
+  },
+  "cornering": {
+    "N": "2.8"
+  },
+  "division": {
+    "S": "Gr.B"
+  },
+  "braking": {
+    "N": "2.9"
+  },
+  "acceleration": {
+    "N": "7.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:54:51.245Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "557"
+  },
+  "speed": {
+    "N": "5.6"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "e3fb0ab7-d46e-488d-858b-ee1e338e2e27"
+  }
+}

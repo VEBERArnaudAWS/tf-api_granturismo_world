@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:04:26.527Z"
+  },
+  "stability": {
+    "N": "6.6"
+  },
+  "name": {
+    "S": "Audi R18 TDI (Audi Sport Team Joest)"
+  },
+  "weight": {
+    "N": "900"
+  },
+  "cornering": {
+    "N": "6"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6.1"
+  },
+  "acceleration": {
+    "N": "6.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:04:26.527Z"
+  },
+  "carManufacturerId": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "power": {
+    "N": "561"
+  },
+  "speed": {
+    "N": "8.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "9ae9afea-d9c2-4585-a6f6-79225a3cbf97"
+  }
+}

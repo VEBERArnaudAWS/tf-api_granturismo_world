@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:37:22.662Z"
+  },
+  "stability": {
+    "N": "6.3"
+  },
+  "name": {
+    "S": "BMW Z4 GT3"
+  },
+  "weight": {
+    "N": "1190"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "5.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:37:22.662Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "516"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "55568621-74cf-4563-bfe3-c256eba5df88"
+  }
+}

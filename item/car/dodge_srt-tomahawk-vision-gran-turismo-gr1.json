@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:34:44.717Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "SRT Tomahawk Vision Gran Turismo (Gr.1)"
+  },
+  "weight": {
+    "N": "950"
+  },
+  "cornering": {
+    "N": "6.4"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6.4"
+  },
+  "acceleration": {
+    "N": "7.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:34:44.717Z"
+  },
+  "carManufacturerId": {
+    "S": "f591f4e4-bead-4c06-af95-500acb5769c0"
+  },
+  "power": {
+    "N": "703"
+  },
+  "speed": {
+    "N": "9.8"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "5ab52dcd-a46a-4b50-8c71-a7afef3c4cbe"
+  }
+}

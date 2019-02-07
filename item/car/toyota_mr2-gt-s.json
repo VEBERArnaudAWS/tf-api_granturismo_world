@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:00:05.361Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "MR2 GT-S"
+  },
+  "weight": {
+    "N": "1270"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:00:05.361Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "247"
+  },
+  "speed": {
+    "N": "5.9"
+  },
+  "price": {
+    "N": "27100"
+  },
+  "id": {
+    "S": "a00586ca-c7d8-4930-93b0-af71c543243c"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:11:23.846Z"
+  },
+  "stability": {
+    "N": "7.5"
+  },
+  "name": {
+    "S": "Porsche 919 Hybrid (Porsche Team)"
+  },
+  "weight": {
+    "N": "875"
+  },
+  "cornering": {
+    "N": "6"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6"
+  },
+  "acceleration": {
+    "N": "6.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:11:23.846Z"
+  },
+  "carManufacturerId": {
+    "S": "90574e81-f742-4693-b347-9de011e8265d"
+  },
+  "power": {
+    "N": "508"
+  },
+  "speed": {
+    "N": "9.2"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "47ce4265-7126-4e3c-a5ea-30309412e406"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:16:49.769Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "Mercedes-AMG GT Safety Car"
+  },
+  "weight": {
+    "N": "1570"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.4"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:16:49.769Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "510"
+  },
+  "speed": {
+    "N": "8.4"
+  },
+  "id": {
+    "S": "330f1b01-4993-4f9f-978f-b11daca3404f"
+  }
+}

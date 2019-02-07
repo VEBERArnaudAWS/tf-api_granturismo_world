@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T13:06:48.059Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "4C Gr.3 Road Car"
+  },
+  "weight": {
+    "N": "1320"
+  },
+  "cornering": {
+    "N": "2.3"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.3"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T13:06:48.059Z"
+  },
+  "carManufacturerId": {
+    "S": "3be660a9-39f0-485c-a091-836b277b9251"
+  },
+  "power": {
+    "N": "450"
+  },
+  "speed": {
+    "N": "6.4"
+  },
+  "id": {
+    "S": "36f91db1-64b7-4d75-874c-c1c436ee121b"
+  }
+}

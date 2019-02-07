@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-29T13:05:13.708Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "Genesis Gr.B Rally Car"
+  },
+  "weight": {
+    "N": "1250"
+  },
+  "cornering": {
+    "N": "2.9"
+  },
+  "division": {
+    "S": "Gr.B"
+  },
+  "braking": {
+    "N": "3"
+  },
+  "acceleration": {
+    "N": "7.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T13:05:13.708Z"
+  },
+  "carManufacturerId": {
+    "S": "b2cf2857-6469-4662-9a15-c3b91b6fdc28"
+  },
+  "power": {
+    "N": "507"
+  },
+  "speed": {
+    "N": "5.7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "b52b9c22-780a-4602-9055-f8294d8fa799"
+  }
+}

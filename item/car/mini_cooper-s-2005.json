@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:28:48.793Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "MMINI Cooper S"
+  },
+  "weight": {
+    "N": "1180"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "2.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:28:48.793Z"
+  },
+  "carManufacturerId": {
+    "S": "af962a01-17d4-4aa5-bf0f-e96fd70a13ad"
+  },
+  "power": {
+    "N": "170"
+  },
+  "speed": {
+    "N": "4.7"
+  },
+  "price": {
+    "N": "28500"
+  },
+  "id": {
+    "S": "00434739-881b-4952-94d0-a6b92b6a3412"
+  }
+}

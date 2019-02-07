@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:11:41.964Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "Viper Gr.4"
+  },
+  "weight": {
+    "N": "1400"
+  },
+  "cornering": {
+    "N": "3.2"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:11:41.965Z"
+  },
+  "carManufacturerId": {
+    "S": "f591f4e4-bead-4c06-af95-500acb5769c0"
+  },
+  "power": {
+    "N": "435"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "37d82da6-6f3f-4376-bf9e-327a88f3f62b"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:01:53.672Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Supra 3.0GT Turbo A"
+  },
+  "weight": {
+    "N": "1530"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:01:53.672Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "270"
+  },
+  "speed": {
+    "N": "6.4"
+  },
+  "price": {
+    "N": "40500"
+  },
+  "id": {
+    "S": "e0d34406-627d-4e93-a7f6-697ccf1298b3"
+  }
+}

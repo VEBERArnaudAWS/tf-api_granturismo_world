@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:19:28.570Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "330 P4"
+  },
+  "weight": {
+    "N": "792"
+  },
+  "cornering": {
+    "N": "3.6"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.5"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:19:28.570Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "455"
+  },
+  "speed": {
+    "N": "7.5"
+  },
+  "price": {
+    "N": "20000000"
+  },
+  "id": {
+    "S": "6935ad44-dc40-4f18-9c97-729d65034d40"
+  }
+}

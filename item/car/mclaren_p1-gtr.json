@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:53:58.161Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "P1 GTR"
+  },
+  "weight": {
+    "N": "1345"
+  },
+  "cornering": {
+    "N": "3.8"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.7"
+  },
+  "acceleration": {
+    "N": "5.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:53:58.161Z"
+  },
+  "carManufacturerId": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "power": {
+    "N": "1000"
+  },
+  "speed": {
+    "N": "9.7"
+  },
+  "price": {
+    "N": "3600000"
+  },
+  "id": {
+    "S": "630c4710-a5b4-4b52-8092-182804ba654a"
+  }
+}

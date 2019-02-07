@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:29:34.784Z"
+  },
+  "stability": {
+    "N": "7"
+  },
+  "name": {
+    "S": "TS030 Hybrid"
+  },
+  "weight": {
+    "N": "900"
+  },
+  "cornering": {
+    "N": "6.2"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6.2"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:29:34.784Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "537"
+  },
+  "speed": {
+    "N": "8.2"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "240f6bc4-44f8-44be-9b82-9796ea2ad2c7"
+  }
+}

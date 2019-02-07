@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:01:55.774Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "Atenza Gr.3"
+  },
+  "weight": {
+    "N": "1280"
+  },
+  "cornering": {
+    "N": "4.2"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.2"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:01:55.774Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "575"
+  },
+  "speed": {
+    "N": "5.9"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "51dbca96-8923-45b9-82f3-1fa3852b5a26"
+  }
+}

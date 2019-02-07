@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T13:08:55.296Z"
+  },
+  "stability": {
+    "N": "4.7"
+  },
+  "name": {
+    "S": "A110 1600S"
+  },
+  "weight": {
+    "N": "715"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T13:08:55.296Z"
+  },
+  "carManufacturerId": {
+    "S": "c167691b-adb0-4f31-ad5c-9393136a1638"
+  },
+  "power": {
+    "N": "140"
+  },
+  "speed": {
+    "N": "3.5"
+  },
+  "price": {
+    "N": "100000"
+  },
+  "id": {
+    "S": "5db9700b-ab19-444d-a864-23b8a85f0e0d"
+  }
+}

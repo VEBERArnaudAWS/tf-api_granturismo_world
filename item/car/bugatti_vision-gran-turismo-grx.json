@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:43:50.673Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "Bugatti Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1400"
+  },
+  "cornering": {
+    "N": "4.7"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.7"
+  },
+  "acceleration": {
+    "N": "9.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:43:50.673Z"
+  },
+  "carManufacturerId": {
+    "S": "696b92e8-d40c-493c-a952-6ef5c80fe8a2"
+  },
+  "power": {
+    "N": "1649"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "3f105f0a-1a64-4d8a-975a-5e70bfa6baba"
+  }
+}

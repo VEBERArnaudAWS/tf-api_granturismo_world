@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:19:55.841Z"
+  },
+  "stability": {
+    "N": "7.5"
+  },
+  "name": {
+    "S": "Mégane Gr.4"
+  },
+  "weight": {
+    "N": "1100"
+  },
+  "cornering": {
+    "N": "3.3"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.3"
+  },
+  "acceleration": {
+    "N": "3.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:19:55.841Z"
+  },
+  "carManufacturerId": {
+    "S": "b981a17c-00d9-4f39-b36c-a35150254709"
+  },
+  "power": {
+    "N": "355"
+  },
+  "speed": {
+    "N": "5.9"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "da892b63-f5b4-4869-90b6-223cbbfb46cb"
+  }
+}

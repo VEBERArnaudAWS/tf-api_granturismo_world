@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T10:31:30.964Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "1500 BIPOSTO BERTONE B.A.T 1 1952"
+  },
+  "weight": {
+    "N": "870"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "2.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T10:31:30.964Z"
+  },
+  "carManufacturerId": {
+    "S": "0f537126-0147-4fd1-abaf-08d9822af9a0"
+  },
+  "power": {
+    "N": "75"
+  },
+  "speed": {
+    "N": "2.1"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "d5a4038c-073b-48a9-bb99-958a90c949c6"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:50:56.726Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Swift Sport"
+  },
+  "weight": {
+    "N": "1060"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "2.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:50:56.727Z"
+  },
+  "carManufacturerId": {
+    "S": "1083935a-1b9a-4f2f-bc3d-25ddf31d477f"
+  },
+  "power": {
+    "N": "125"
+  },
+  "speed": {
+    "N": "3.5"
+  },
+  "price": {
+    "N": "16300"
+  },
+  "id": {
+    "S": "03d055fd-7cc3-48bf-a99c-5eafef7132d7"
+  }
+}

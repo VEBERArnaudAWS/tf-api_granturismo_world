@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:34:19.076Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "Honda Sports Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "899"
+  },
+  "cornering": {
+    "N": "2.9"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.8"
+  },
+  "acceleration": {
+    "N": "5.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:34:19.076Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "409"
+  },
+  "speed": {
+    "N": "7.2"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "282c8a5e-f23e-4763-a663-1c731d7e179e"
+  }
+}

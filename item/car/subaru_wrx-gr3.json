@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:41:42.841Z"
+  },
+  "stability": {
+    "N": "6.6"
+  },
+  "name": {
+    "S": "WRX Gr.3"
+  },
+  "weight": {
+    "N": "1280"
+  },
+  "cornering": {
+    "N": "4.2"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.2"
+  },
+  "acceleration": {
+    "N": "5.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:41:42.841Z"
+  },
+  "carManufacturerId": {
+    "S": "55c9732e-3686-4e53-961e-5c85649c789d"
+  },
+  "power": {
+    "N": "529"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "3f4c1b78-b473-4b4c-a9c7-f947835fc3b1"
+  }
+}

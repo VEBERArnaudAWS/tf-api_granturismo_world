@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:31:47.575Z"
+  },
+  "stability": {
+    "N": "7.2"
+  },
+  "name": {
+    "S": "Concept XR-PHEV EVOLUTION Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "4.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:31:47.575Z"
+  },
+  "carManufacturerId": {
+    "S": "2e2c5624-1c75-4a8a-98a3-99918ae0eb21"
+  },
+  "power": {
+    "N": "510"
+  },
+  "speed": {
+    "N": "7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "37f171e1-2166-4b21-b473-5fb5e5f7d077"
+  }
+}

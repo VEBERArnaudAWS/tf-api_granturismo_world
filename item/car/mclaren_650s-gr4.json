@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:44:16.607Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "650S Gr.4"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "5.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:44:16.607Z"
+  },
+  "carManufacturerId": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "power": {
+    "N": "405"
+  },
+  "speed": {
+    "N": "6.2"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "96967a95-fdc8-4dfc-8549-f8c37241ec06"
+  }
+}

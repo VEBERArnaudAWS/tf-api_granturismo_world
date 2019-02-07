@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:31:17.987Z"
+  },
+  "stability": {
+    "N": "4.7"
+  },
+  "name": {
+    "S": "Shelby G.T.350"
+  },
+  "weight": {
+    "N": "1270"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:31:17.987Z"
+  },
+  "carManufacturerId": {
+    "S": "3c8f4b07-2602-42b1-890a-7fa8a68b6bed"
+  },
+  "power": {
+    "N": "309"
+  },
+  "speed": {
+    "N": "4.6"
+  },
+  "price": {
+    "N": "400000"
+  },
+  "id": {
+    "S": "ad105be2-e488-4b4b-961c-1bde36edfeb2"
+  }
+}

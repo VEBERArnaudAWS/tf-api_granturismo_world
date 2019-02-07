@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:00:52.587Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Corvette Stingray (C7)"
+  },
+  "weight": {
+    "N": "1500"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:00:52.587Z"
+  },
+  "carManufacturerId": {
+    "S": "fbb8ae01-3f8d-4ba9-845d-a7a3ac8a5aeb"
+  },
+  "power": {
+    "N": "460"
+  },
+  "speed": {
+    "N": "9.4"
+  },
+  "price": {
+    "N": "51000"
+  },
+  "id": {
+    "S": "8b7c5117-e92a-418d-a39d-3e38ace7e9d7"
+  }
+}

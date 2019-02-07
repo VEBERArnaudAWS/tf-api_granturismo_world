@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:13:36.687Z"
+  },
+  "stability": {
+    "N": "6.7"
+  },
+  "name": {
+    "S": "Mazda 787B"
+  },
+  "weight": {
+    "N": "830"
+  },
+  "cornering": {
+    "N": "5.7"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "5.7"
+  },
+  "acceleration": {
+    "N": "7.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:13:36.687Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "802"
+  },
+  "speed": {
+    "N": "9.6"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "2568a1e0-e546-40b2-9ac8-2b864e3eed4c"
+  }
+}

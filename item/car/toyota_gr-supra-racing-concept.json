@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:58:25.986Z"
+  },
+  "stability": {
+    "N": "6.3"
+  },
+  "name": {
+    "S": "GR Supra Racing Concept"
+  },
+  "weight": {
+    "N": "1243"
+  },
+  "cornering": {
+    "N": "4.3"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.3"
+  },
+  "acceleration": {
+    "N": "5.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:58:25.986Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "643"
+  },
+  "speed": {
+    "N": "6.6"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "f5f2b0c5-1009-4270-a8a1-613b0cf99748"
+  }
+}

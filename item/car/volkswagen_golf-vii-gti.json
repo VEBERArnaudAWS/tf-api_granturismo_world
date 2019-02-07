@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T15:33:34.357Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Golf VII GTI"
+  },
+  "weight": {
+    "N": "1390"
+  },
+  "cornering": {
+    "N": "1.3"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.5"
+  },
+  "acceleration": {
+    "N": "2.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T15:33:34.357Z"
+  },
+  "carManufacturerId": {
+    "S": "4513c60d-7b80-48b8-82fe-8419ba47274f"
+  },
+  "power": {
+    "N": "220"
+  },
+  "speed": {
+    "N": "5.3"
+  },
+  "price": {
+    "N": "38330"
+  },
+  "id": {
+    "S": "6225a525-2e47-444c-85c9-0052b0202ded"
+  }
+}

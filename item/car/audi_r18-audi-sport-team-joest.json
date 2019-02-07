@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:03:14.507Z"
+  },
+  "stability": {
+    "N": "7.4"
+  },
+  "name": {
+    "S": "Audi R18 (Audi Sport Team Joest)"
+  },
+  "weight": {
+    "N": "875"
+  },
+  "cornering": {
+    "N": "6.1"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6"
+  },
+  "acceleration": {
+    "N": "8"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:03:14.507Z"
+  },
+  "carManufacturerId": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "power": {
+    "N": "534"
+  },
+  "speed": {
+    "N": "8.5"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "c482bcb5-2e44-4bd0-8b14-9deeb5b3c51b"
+  }
+}

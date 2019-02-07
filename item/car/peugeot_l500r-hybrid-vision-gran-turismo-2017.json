@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:08:00.609Z"
+  },
+  "stability": {
+    "N": "6.3"
+  },
+  "name": {
+    "S": "Peugeot L500R HYbrid Vision Gran Turismo, 2017"
+  },
+  "weight": {
+    "N": "1550"
+  },
+  "cornering": {
+    "N": "2.5"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.5"
+  },
+  "acceleration": {
+    "N": "4.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:08:00.609Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "272"
+  },
+  "speed": {
+    "N": "6.5"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "6ec13d56-cb1f-4c9b-949a-686e03a76d9d"
+  }
+}

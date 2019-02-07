@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T08:57:52.443Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "RC F GT3 (Emil Frey Racing)"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "4.2"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.2"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T08:57:52.443Z"
+  },
+  "carManufacturerId": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "power": {
+    "N": "532"
+  },
+  "speed": {
+    "N": "6.2"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "6b55727a-103c-4a5c-a67b-88b9fdd8a900"
+  }
+}

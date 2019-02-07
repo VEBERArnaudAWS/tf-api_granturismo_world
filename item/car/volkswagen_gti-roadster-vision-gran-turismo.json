@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T15:36:59.818Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "GTI Roadster Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1200"
+  },
+  "cornering": {
+    "N": "3.6"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.6"
+  },
+  "acceleration": {
+    "N": "7.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T15:36:59.818Z"
+  },
+  "carManufacturerId": {
+    "S": "4513c60d-7b80-48b8-82fe-8419ba47274f"
+  },
+  "power": {
+    "N": "559"
+  },
+  "speed": {
+    "N": "7.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "956b1139-bcd1-4838-9524-46438916ed1e"
+  }
+}

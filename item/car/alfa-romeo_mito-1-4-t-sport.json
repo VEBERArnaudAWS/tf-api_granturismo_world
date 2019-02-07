@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-28T13:05:36.974Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "MiTo 1.4 T Sport"
+  },
+  "weight": {
+    "N": "1145"
+  },
+  "cornering": {
+    "N": "1.2"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.5"
+  },
+  "acceleration": {
+    "N": "2.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T13:05:36.974Z"
+  },
+  "carManufacturerId": {
+    "S": "3be660a9-39f0-485c-a091-836b277b9251"
+  },
+  "power": {
+    "N": "155"
+  },
+  "speed": {
+    "N": "4.4"
+  },
+  "price": {
+    "N": "28500"
+  },
+  "id": {
+    "S": "169c3dff-2fcb-4a96-830b-fae451d63e3d"
+  }
+}

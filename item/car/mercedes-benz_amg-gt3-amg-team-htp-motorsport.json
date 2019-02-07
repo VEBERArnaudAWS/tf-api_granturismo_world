@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:18:13.098Z"
+  },
+  "stability": {
+    "N": "6.2"
+  },
+  "name": {
+    "S": "Mercedes-AMG GT3 (AMG-Team HTP-Motorsport)"
+  },
+  "weight": {
+    "N": "1325"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "5.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:18:13.098Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "622"
+  },
+  "speed": {
+    "N": "6.8"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "4ad3f25b-de45-42de-bdef-14e35629a715"
+  }
+}

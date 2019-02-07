@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:33:36.991Z"
+  },
+  "stability": {
+    "N": "6.3"
+  },
+  "name": {
+    "S": "Veneno"
+  },
+  "weight": {
+    "N": "1450"
+  },
+  "cornering": {
+    "N": "2.3"
+  },
+  "division": {
+    "S": "N800"
+  },
+  "braking": {
+    "N": "2.3"
+  },
+  "acceleration": {
+    "N": "6.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:33:36.991Z"
+  },
+  "carManufacturerId": {
+    "S": "85c6ac3b-ae59-40d4-8ec1-58cc0ffd3915"
+  },
+  "power": {
+    "N": "750"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "3640000"
+  },
+  "id": {
+    "S": "353313da-2925-48c6-84e5-d4b41aeef799"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:35:56.921Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "BMW Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1180"
+  },
+  "cornering": {
+    "N": "4.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "5.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:35:56.921Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "549"
+  },
+  "speed": {
+    "N": "7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "fc311e9d-b493-4e1b-8056-5051d68a3c6d"
+  }
+}
