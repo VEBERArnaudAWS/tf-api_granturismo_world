@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:34:20.362Z"
+  },
+  "stability": {
+    "N": "6.5"
+  },
+  "name": {
+    "S": "Lancer Evolution Final Edition Gr.3"
+  },
+  "weight": {
+    "N": "1290"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.2"
+  },
+  "acceleration": {
+    "N": "5.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:34:20.362Z"
+  },
+  "carManufacturerId": {
+    "S": "2e2c5624-1c75-4a8a-98a3-99918ae0eb21"
+  },
+  "power": {
+    "N": "529"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "2489ad8e-a821-4041-b125-5bb7f12791dc"
+  }
+}

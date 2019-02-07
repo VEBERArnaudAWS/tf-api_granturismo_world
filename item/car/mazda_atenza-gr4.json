@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:28:24.590Z"
+  },
+  "stability": {
+    "N": "6.6"
+  },
+  "name": {
+    "S": "Atenza Gr.4"
+  },
+  "weight": {
+    "N": "1380"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:28:24.590Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "399"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "5c4cb34c-dac3-470a-98d6-c532b57d5e2b"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:15:28.225Z"
+  },
+  "stability": {
+    "N": "7"
+  },
+  "name": {
+    "S": "Gran Turismo Red Bull X2014 Standard"
+  },
+  "weight": {
+    "N": "650"
+  },
+  "cornering": {
+    "N": "9.7"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "9.6"
+  },
+  "acceleration": {
+    "N": "10"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:15:28.225Z"
+  },
+  "carManufacturerId": {
+    "S": "ec0bdbea-881f-4912-9630-7bb2c354106a"
+  },
+  "power": {
+    "N": "810"
+  },
+  "speed": {
+    "N": "9.7"
+  },
+  "price": {
+    "N": "3000000"
+  },
+  "id": {
+    "S": "e31fcff5-e175-4b92-a69e-e99a59e0d99a"
+  }
+}

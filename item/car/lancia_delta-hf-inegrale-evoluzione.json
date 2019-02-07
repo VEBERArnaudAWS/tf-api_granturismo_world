@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:39:51.766Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "DELTA HF Integrale Evoluzione"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.8"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:39:51.766Z"
+  },
+  "carManufacturerId": {
+    "S": "ad62b5f2-17c4-461b-9c78-372d7c95fcc2"
+  },
+  "power": {
+    "N": "212"
+  },
+  "speed": {
+    "N": "5.2"
+  },
+  "price": {
+    "N": "55000"
+  },
+  "id": {
+    "S": "2ecdb8a2-a30f-481c-864d-8eacf3992f76"
+  }
+}

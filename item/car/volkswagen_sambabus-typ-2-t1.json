@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T15:40:18.235Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Sambabus Typ 2 (T1)"
+  },
+  "weight": {
+    "N": "1095"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "1.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T15:40:18.235Z"
+  },
+  "carManufacturerId": {
+    "S": "4513c60d-7b80-48b8-82fe-8419ba47274f"
+  },
+  "power": {
+    "N": "34"
+  },
+  "speed": {
+    "N": "0"
+  },
+  "price": {
+    "N": "75000"
+  },
+  "id": {
+    "S": "c817cd6d-de91-4be5-ad96-b6ff7dc93e75"
+  }
+}

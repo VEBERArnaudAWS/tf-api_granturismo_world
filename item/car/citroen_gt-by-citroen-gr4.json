@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:09:34.503Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "GT by Citroën Gr.4"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "3.2"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "5.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:09:34.503Z"
+  },
+  "carManufacturerId": {
+    "S": "b3b3f1e7-bab3-4a16-9be6-5491f58cf395"
+  },
+  "power": {
+    "N": "400"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "010334af-28e6-4596-96fb-6dab3d211f3f"
+  }
+}

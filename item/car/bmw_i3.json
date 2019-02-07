@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:16:19.862Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "BMW i3"
+  },
+  "weight": {
+    "N": "1260"
+  },
+  "cornering": {
+    "N": "1.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "1.4"
+  },
+  "acceleration": {
+    "N": "2.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:16:19.862Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "170"
+  },
+  "speed": {
+    "N": "1.4"
+  },
+  "price": {
+    "N": "49900"
+  },
+  "id": {
+    "S": "c3128634-77f4-4b1a-93f6-f6bf3177e2b3"
+  }
+}

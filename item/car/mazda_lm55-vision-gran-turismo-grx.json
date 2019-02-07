@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:05:04.844Z"
+  },
+  "stability": {
+    "N": "6.4"
+  },
+  "name": {
+    "S": "LM55 Vision Gran Turismo"
+  },
+  "cornering": {
+    "N": "4.5"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.5"
+  },
+  "acceleration": {
+    "N": "8.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:05:04.844Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "803"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "299c1349-d9af-4376-b5ab-82c88c6958df"
+  }
+}

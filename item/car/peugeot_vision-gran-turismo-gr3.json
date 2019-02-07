@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:11:52.403Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "PEUGEOT Vision Gran Turismo (Gr.3)"
+  },
+  "weight": {
+    "N": "1250"
+  },
+  "cornering": {
+    "N": "3.9"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "5.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:11:52.403Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "550"
+  },
+  "speed": {
+    "N": "7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "53d636cf-e64b-4651-8281-020f9cd73878"
+  }
+}

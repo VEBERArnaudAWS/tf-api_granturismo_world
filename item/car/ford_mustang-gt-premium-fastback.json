@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:07:10.508Z"
+  },
+  "stability": {
+    "N": "4.6"
+  },
+  "name": {
+    "S": "Mustang GT Premium Fastback"
+  },
+  "weight": {
+    "N": "1681"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:07:10.508Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "441"
+  },
+  "speed": {
+    "N": "6.7"
+  },
+  "price": {
+    "N": "44310"
+  },
+  "id": {
+    "S": "266cbb17-3522-4063-8ee3-75645a589f8f"
+  }
+}

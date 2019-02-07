@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T08:14:13.919Z"
+  },
+  "stability": {
+    "N": "6.4"
+  },
+  "name": {
+    "S": "LEXUS LF-LC GT “Vision Gran Turismo”"
+  },
+  "weight": {
+    "N": "1075"
+  },
+  "cornering": {
+    "N": "4.5"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.5"
+  },
+  "acceleration": {
+    "N": "5.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T08:14:13.919Z"
+  },
+  "carManufacturerId": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "power": {
+    "N": "621"
+  },
+  "speed": {
+    "N": "7.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "6cd8c5ba-c811-430b-b6e8-5861c272a49d"
+  }
+}

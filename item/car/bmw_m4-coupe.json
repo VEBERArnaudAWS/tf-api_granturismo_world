@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:26:08.889Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "BMW M4 Coupé"
+  },
+  "weight": {
+    "N": "1497"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:26:08.889Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "431"
+  },
+  "speed": {
+    "N": "7.9"
+  },
+  "price": {
+    "N": "120000"
+  },
+  "id": {
+    "S": "fc69b4a5-463e-47b4-b794-e2a004cb8781"
+  }
+}

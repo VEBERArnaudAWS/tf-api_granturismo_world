@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:46:14.178Z"
+  },
+  "stability": {
+    "N": "7.8"
+  },
+  "name": {
+    "S": "GT-R LM NISMO"
+  },
+  "weight": {
+    "N": "880"
+  },
+  "cornering": {
+    "N": "6"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "5.9"
+  },
+  "acceleration": {
+    "N": "8.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:46:14.178Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "613"
+  },
+  "speed": {
+    "N": "8.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "99f9eed8-d8d5-4358-a4b0-5c1dc072d836"
+  }
+}

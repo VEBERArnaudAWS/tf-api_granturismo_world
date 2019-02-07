@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:10:07.216Z"
+  },
+  "stability": {
+    "N": "5.7"
+  },
+  "name": {
+    "S": "Cayman GT4 Clubsport"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "5.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:10:07.216Z"
+  },
+  "carManufacturerId": {
+    "S": "90574e81-f742-4693-b347-9de011e8265d"
+  },
+  "power": {
+    "N": "385"
+  },
+  "speed": {
+    "N": "6.5"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "87017380-747f-4f6b-92b4-24a797d9fa29"
+  }
+}

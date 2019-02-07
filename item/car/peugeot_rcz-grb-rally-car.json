@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:15:43.888Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "RCZ Gr.B Rally Car"
+  },
+  "weight": {
+    "N": "1200"
+  },
+  "cornering": {
+    "N": "2.9"
+  },
+  "division": {
+    "S": "Gr.B"
+  },
+  "braking": {
+    "N": "3"
+  },
+  "acceleration": {
+    "N": "7.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:15:43.888Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "524"
+  },
+  "speed": {
+    "N": "5.7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "8e7d182f-fda9-4b77-9e07-dde98d86b40c"
+  }
+}

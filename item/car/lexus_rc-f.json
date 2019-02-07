@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T08:54:57.387Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "RC F"
+  },
+  "weight": {
+    "N": "1790"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T08:54:57.387Z"
+  },
+  "carManufacturerId": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "power": {
+    "N": "476"
+  },
+  "speed": {
+    "N": "8.1"
+  },
+  "price": {
+    "N": "95300"
+  },
+  "id": {
+    "S": "1c4f2356-d44d-4c5f-bf9e-4d2305f1600e"
+  }
+}

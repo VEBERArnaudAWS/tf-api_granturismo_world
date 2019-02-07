@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:47:28.706Z"
+  },
+  "stability": {
+    "N": "7"
+  },
+  "name": {
+    "S": "GT-R NISMO GT3 N24 Schulze Motorsport"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "4.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:47:28.706Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "550"
+  },
+  "speed": {
+    "N": "6"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "4e5e562e-f65f-4d82-a71f-985261117e56"
+  }
+}

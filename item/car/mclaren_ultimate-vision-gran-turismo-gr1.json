@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:48:59.447Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "McLaren Ultimate Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "900"
+  },
+  "cornering": {
+    "N": "5.9"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "5.8"
+  },
+  "acceleration": {
+    "N": "7.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:48:59.447Z"
+  },
+  "carManufacturerId": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "power": {
+    "N": "950"
+  },
+  "speed": {
+    "N": "9.6"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "7aec9bf2-0f47-4696-96cb-d81da0f128ea"
+  }
+}

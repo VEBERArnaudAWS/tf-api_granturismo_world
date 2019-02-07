@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:51:30.687Z"
+  },
+  "stability": {
+    "N": "6.4"
+  },
+  "name": {
+    "S": "MOTUL AUTECH GT-R"
+  },
+  "weight": {
+    "N": "1020"
+  },
+  "cornering": {
+    "N": "5.5"
+  },
+  "division": {
+    "S": "Gr.2"
+  },
+  "braking": {
+    "N": "5.5"
+  },
+  "acceleration": {
+    "N": "6.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:51:30.687Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "621"
+  },
+  "speed": {
+    "N": "7.2"
+  },
+  "price": {
+    "N": "800000"
+  },
+  "id": {
+    "S": "5b20fe70-979a-4c01-8191-96e9e55bc7b4"
+  }
+}

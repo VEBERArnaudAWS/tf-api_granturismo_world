@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:04:04.239Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "Toyota 2000GT"
+  },
+  "weight": {
+    "N": "1120"
+  },
+  "cornering": {
+    "N": "1.5"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:04:04.239Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "156"
+  },
+  "speed": {
+    "N": "5.3"
+  },
+  "price": {
+    "N": "160000"
+  },
+  "id": {
+    "S": "82f0617d-9283-4c28-90ac-3f34c69ec53a"
+  }
+}

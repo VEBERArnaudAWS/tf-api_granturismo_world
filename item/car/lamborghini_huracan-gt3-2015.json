@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:03:27.707Z"
+  },
+  "stability": {
+    "N": "5.5"
+  },
+  "name": {
+    "S": "2015 Lamborghini Huracán GT3"
+  },
+  "weight": {
+    "N": "1230"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:03:27.707Z"
+  },
+  "carManufacturerId": {
+    "S": "85c6ac3b-ae59-40d4-8ec1-58cc0ffd3915"
+  },
+  "power": {
+    "N": "585"
+  },
+  "speed": {
+    "N": "6.9"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "0bef0758-d3e9-425b-bfdb-55853d12f259"
+  }
+}

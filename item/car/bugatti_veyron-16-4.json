@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:46:41.717Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "Veyron 16.4"
+  },
+  "weight": {
+    "N": "1888"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N1000"
+  },
+  "braking": {
+    "N": "2.2"
+  },
+  "acceleration": {
+    "N": "6.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:46:41.717Z"
+  },
+  "carManufacturerId": {
+    "S": "696b92e8-d40c-493c-a952-6ef5c80fe8a2"
+  },
+  "power": {
+    "N": "1000"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "2000000"
+  },
+  "id": {
+    "S": "de0e37a7-15ed-437f-9983-e268c3a45306"
+  }
+}

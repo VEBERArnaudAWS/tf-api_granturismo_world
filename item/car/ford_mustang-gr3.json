@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:52:53.881Z"
+  },
+  "stability": {
+    "N": "6.6"
+  },
+  "name": {
+    "S": "Mustang Gr.3"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:52:53.881Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "557"
+  },
+  "speed": {
+    "N": "6.5"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "c0c1a5c3-9fd0-49f8-a8d3-3fc650824468"
+  }
+}

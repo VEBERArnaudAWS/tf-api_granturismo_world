@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:58:41.061Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "Firebird Trans Am"
+  },
+  "weight": {
+    "N": "1640"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "2.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:58:41.061Z"
+  },
+  "carManufacturerId": {
+    "S": "e2f7b444-7cf9-4b63-9f34-94d6ff771742"
+  },
+  "power": {
+    "N": "223"
+  },
+  "speed": {
+    "N": "4"
+  },
+  "price": {
+    "N": "75000"
+  },
+  "id": {
+    "S": "a9b297ce-3af4-4ae3-99d0-18a0ab6e7826"
+  }
+}

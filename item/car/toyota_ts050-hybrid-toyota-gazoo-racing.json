@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:28:10.943Z"
+  },
+  "stability": {
+    "N": "7.5"
+  },
+  "name": {
+    "S": "Toyota TS050 - Hybrid (Toyota Gazoo Racing)"
+  },
+  "weight": {
+    "N": "875"
+  },
+  "cornering": {
+    "N": "5.9"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6"
+  },
+  "acceleration": {
+    "N": "6.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:28:10.943Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "514"
+  },
+  "speed": {
+    "N": "8.7"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "e4f26743-b91b-4087-93bf-50108eda5dd9"
+  }
+}

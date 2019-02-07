@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:37:59.342Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "Lancer Evolution Final Edition Gr.B Road Car"
+  },
+  "weight": {
+    "N": "1425"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.4"
+  },
+  "acceleration": {
+    "N": "5.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:37:59.342Z"
+  },
+  "carManufacturerId": {
+    "S": "2e2c5624-1c75-4a8a-98a3-99918ae0eb21"
+  },
+  "power": {
+    "N": "480"
+  },
+  "speed": {
+    "N": "5.8"
+  },
+  "id": {
+    "S": "56182acc-203b-4657-8ad0-8731fac11750"
+  }
+}

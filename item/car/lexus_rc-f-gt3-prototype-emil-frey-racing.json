@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T08:58:55.138Z"
+  },
+  "stability": {
+    "N": "6.6"
+  },
+  "name": {
+    "S": "RC F GT3 prototype (Emil Frey Racing)"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "5.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T08:58:55.138Z"
+  },
+  "carManufacturerId": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "power": {
+    "N": "529"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "3d1de60d-b5e9-4fb0-9b00-edc5c2b8389e"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:16:19.240Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "Huracán LP 610-4"
+  },
+  "weight": {
+    "N": "1422"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "6.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:16:19.240Z"
+  },
+  "carManufacturerId": {
+    "S": "85c6ac3b-ae59-40d4-8ec1-58cc0ffd3915"
+  },
+  "power": {
+    "N": "610"
+  },
+  "speed": {
+    "N": "9.1"
+  },
+  "price": {
+    "N": "297000"
+  },
+  "id": {
+    "S": "8c281d6a-ecf7-4595-b211-bea2012f2b5b"
+  }
+}

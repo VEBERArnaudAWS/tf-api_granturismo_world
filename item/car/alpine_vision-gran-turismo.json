@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T16:45:02.087Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "Alpine Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "900"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3"
+  },
+  "acceleration": {
+    "N": "4.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T16:45:02.087Z"
+  },
+  "carManufacturerId": {
+    "S": "c167691b-adb0-4f31-ad5c-9393136a1638"
+  },
+  "power": {
+    "N": "450"
+  },
+  "speed": {
+    "N": "8.4"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "1e15a222-b20f-43cb-8d14-49aac7805336"
+  }
+}

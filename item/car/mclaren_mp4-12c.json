@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:52:53.637Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "MP4-12C"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:52:53.637Z"
+  },
+  "carManufacturerId": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "power": {
+    "N": "609"
+  },
+  "speed": {
+    "N": "9.8"
+  },
+  "price": {
+    "N": "225000"
+  },
+  "id": {
+    "S": "da504990-1bcf-41eb-bfa4-4926567f4c38"
+  }
+}

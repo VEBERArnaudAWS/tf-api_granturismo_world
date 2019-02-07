@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:59:03.282Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Skyline GT-R V・spec II Nür (R34)"
+  },
+  "weight": {
+    "N": "1560"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:59:03.282Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "341"
+  },
+  "speed": {
+    "N": "6.9"
+  },
+  "price": {
+    "N": "61000"
+  },
+  "id": {
+    "S": "c001c9e1-9693-434f-a477-5041fffeff6a"
+  }
+}

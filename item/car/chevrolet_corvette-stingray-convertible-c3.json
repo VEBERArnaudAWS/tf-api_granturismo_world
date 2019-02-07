@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:02:34.588Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "Corvette Stingray Convertible (C3)"
+  },
+  "weight": {
+    "N": "1552"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:02:34.588Z"
+  },
+  "carManufacturerId": {
+    "S": "fbb8ae01-3f8d-4ba9-845d-a7a3ac8a5aeb"
+  },
+  "power": {
+    "N": "303"
+  },
+  "speed": {
+    "N": "4.4"
+  },
+  "price": {
+    "N": "50000"
+  },
+  "id": {
+    "S": "2fe22e80-6593-4f88-9ace-28e64130dff5"
+  }
+}

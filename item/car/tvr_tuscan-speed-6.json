@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T15:31:21.427Z"
+  },
+  "stability": {
+    "N": "4.6"
+  },
+  "name": {
+    "S": "Tuscan Speed 6"
+  },
+  "weight": {
+    "N": "1100"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T15:31:21.427Z"
+  },
+  "carManufacturerId": {
+    "S": "6ed9605c-4515-43da-8b0d-8f01211602a1"
+  },
+  "power": {
+    "N": "366"
+  },
+  "speed": {
+    "N": "7.8"
+  },
+  "price": {
+    "N": "95000"
+  },
+  "id": {
+    "S": "14062aa0-f886-4eaf-8fa5-58294075e197"
+  }
+}

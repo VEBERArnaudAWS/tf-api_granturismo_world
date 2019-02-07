@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:45:21.181Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Mark IV Race Car"
+  },
+  "weight": {
+    "N": "1000"
+  },
+  "cornering": {
+    "N": "3.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.2"
+  },
+  "acceleration": {
+    "N": "5.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:45:21.181Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "511"
+  },
+  "speed": {
+    "N": "8.1"
+  },
+  "price": {
+    "N": "20000000"
+  },
+  "id": {
+    "S": "1c398ba7-3f76-4222-a1b4-e1604bb4adb0"
+  }
+}

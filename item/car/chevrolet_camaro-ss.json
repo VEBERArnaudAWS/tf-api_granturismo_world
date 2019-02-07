@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:52:59.053Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Camaro SS"
+  },
+  "weight": {
+    "N": "1672"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:52:59.053Z"
+  },
+  "carManufacturerId": {
+    "S": "fbb8ae01-3f8d-4ba9-845d-a7a3ac8a5aeb"
+  },
+  "power": {
+    "N": "460"
+  },
+  "speed": {
+    "N": "7.6"
+  },
+  "price": {
+    "N": "35000"
+  },
+  "id": {
+    "S": "4e65e08d-26d1-4b98-a2b0-7cb0ebfb7abf"
+  }
+}

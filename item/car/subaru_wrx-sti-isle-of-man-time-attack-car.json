@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:40:19.393Z"
+  },
+  "stability": {
+    "N": "5.5"
+  },
+  "name": {
+    "S": "Subaru WRX STI Isle of Man Time Attack Car"
+  },
+  "weight": {
+    "N": "1140"
+  },
+  "cornering": {
+    "N": "3.4"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.4"
+  },
+  "acceleration": {
+    "N": "7.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:40:19.393Z"
+  },
+  "carManufacturerId": {
+    "S": "55c9732e-3686-4e53-961e-5c85649c789d"
+  },
+  "power": {
+    "N": "587"
+  },
+  "speed": {
+    "N": "6.6"
+  },
+  "price": {
+    "N": "300000"
+  },
+  "id": {
+    "S": "8dfbe774-5421-4ab5-850a-fad2705f5c69"
+  }
+}

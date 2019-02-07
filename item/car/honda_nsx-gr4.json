@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T12:57:24.162Z"
+  },
+  "stability": {
+    "N": "5.7"
+  },
+  "name": {
+    "S": "NSX Gr.4"
+  },
+  "weight": {
+    "N": "1360"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T12:57:24.162Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "400"
+  },
+  "speed": {
+    "N": "6.4"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "c772c40b-3666-48bd-bd78-d99f9397735c"
+  }
+}

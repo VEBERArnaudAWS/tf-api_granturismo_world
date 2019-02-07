@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T06:58:00.242Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Jaguar XJ13"
+  },
+  "weight": {
+    "N": "998"
+  },
+  "cornering": {
+    "N": "3.4"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.3"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T06:58:00.242Z"
+  },
+  "carManufacturerId": {
+    "S": "955f8be6-83fb-4404-8fec-e7bfebc1c702"
+  },
+  "power": {
+    "N": "518"
+  },
+  "speed": {
+    "N": "8"
+  },
+  "price": {
+    "N": "20000000"
+  },
+  "id": {
+    "S": "1c29bc9d-51ff-4bb8-97d1-7c5c4b81f973"
+  }
+}

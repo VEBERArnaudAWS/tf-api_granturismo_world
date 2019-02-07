@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:56:32.868Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "86 GRMN"
+  },
+  "weight": {
+    "N": "1220"
+  },
+  "cornering": {
+    "N": "1.4"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.5"
+  },
+  "acceleration": {
+    "N": "3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:56:32.868Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "215"
+  },
+  "speed": {
+    "N": "5.1"
+  },
+  "price": {
+    "N": "50000"
+  },
+  "id": {
+    "S": "2f5eb136-33b9-410a-8dfb-dc8d76f032b2"
+  }
+}

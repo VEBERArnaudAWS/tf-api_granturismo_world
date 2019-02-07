@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:52:03.642Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "RCZ Gr.3 Road Car"
+  },
+  "weight": {
+    "N": "1400"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.4"
+  },
+  "acceleration": {
+    "N": "4.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:52:03.642Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "475"
+  },
+  "speed": {
+    "N": "6"
+  },
+  "id": {
+    "S": "71f923cb-c48f-49f8-a3d0-cfdbdf3396ec"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T12:59:16.724Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "NSX Type R"
+  },
+  "weight": {
+    "N": "1230"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "4.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T12:59:16.724Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "288"
+  },
+  "speed": {
+    "N": "7.2"
+  },
+  "price": {
+    "N": "97000"
+  },
+  "id": {
+    "S": "2e803f07-45b3-4cb4-b7c0-85d6843b5275"
+  }
+}

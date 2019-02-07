@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:23:39.205Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "R.S.01"
+  },
+  "weight": {
+    "N": "1144"
+  },
+  "cornering": {
+    "N": "4.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.2"
+  },
+  "acceleration": {
+    "N": "6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:23:39.205Z"
+  },
+  "carManufacturerId": {
+    "S": "b981a17c-00d9-4f39-b36c-a35150254709"
+  },
+  "power": {
+    "N": "550"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "500000"
+  },
+  "id": {
+    "S": "00f497ff-db02-409f-89a1-b2c04741d164"
+  }
+}

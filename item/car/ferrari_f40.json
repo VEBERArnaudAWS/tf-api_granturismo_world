@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:26:19.432Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "F40"
+  },
+  "weight": {
+    "N": "1100"
+  },
+  "cornering": {
+    "N": "2.2"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "5.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:26:19.432Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "478"
+  },
+  "speed": {
+    "N": "8.9"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "be60641c-7911-44d9-a141-5c4c3b6f7ace"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:30:49.632Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "BMW M4 Safety Car"
+  },
+  "weight": {
+    "N": "1497"
+  },
+  "cornering": {
+    "N": "2.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.2"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:30:49.632Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "431"
+  },
+  "speed": {
+    "N": "7.7"
+  },
+  "id": {
+    "S": "89872ad9-a148-4ff9-a908-7ca853314d02"
+  }
+}

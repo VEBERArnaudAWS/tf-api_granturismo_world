@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-28T16:51:37.057Z"
+  },
+  "stability": {
+    "N": "5.8"
+  },
+  "name": {
+    "S": "Aston Martin DP-100 Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1375"
+  },
+  "cornering": {
+    "N": "3.5"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.4"
+  },
+  "acceleration": {
+    "N": "8"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T16:51:37.057Z"
+  },
+  "carManufacturerId": {
+    "S": "cdd6cd80-e937-4ac6-85e6-088c6bfb3ec4"
+  },
+  "power": {
+    "N": "811"
+  },
+  "speed": {
+    "N": "9.5"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "a03ba9a9-2296-4eac-b94f-4ec1423b52a6"
+  }
+}

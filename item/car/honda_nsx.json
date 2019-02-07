@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:36:27.299Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "NSX"
+  },
+  "weight": {
+    "N": "1780"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "6"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:36:27.299Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "578"
+  },
+  "speed": {
+    "N": "9.3"
+  },
+  "price": {
+    "N": "200000"
+  },
+  "id": {
+    "S": "43a5e527-3334-4403-b0ee-133421602324"
+  }
+}

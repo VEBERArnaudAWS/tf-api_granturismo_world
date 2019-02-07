@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:39:36.544Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "BMW Z8"
+  },
+  "weight": {
+    "N": "1610"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:39:36.544Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "401"
+  },
+  "speed": {
+    "N": "7.3"
+  },
+  "price": {
+    "N": "166000"
+  },
+  "id": {
+    "S": "86630f3a-64cd-40da-bf89-b23949586d34"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:06:30.081Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Countach LP400"
+  },
+  "weight": {
+    "N": "1065"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:06:30.081Z"
+  },
+  "carManufacturerId": {
+    "S": "85c6ac3b-ae59-40d4-8ec1-58cc0ffd3915"
+  },
+  "power": {
+    "N": "379"
+  },
+  "speed": {
+    "N": "8.6"
+  },
+  "price": {
+    "N": "1800000"
+  },
+  "id": {
+    "S": "e52a92ee-8012-47a3-bf0f-aa14eef3368a"
+  }
+}

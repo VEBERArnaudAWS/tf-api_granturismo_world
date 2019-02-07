@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:06:31.771Z"
+  },
+  "stability": {
+    "N": "6.3"
+  },
+  "name": {
+    "S": "Peugeot 908 HDi FAP - Team Peugeot Total"
+  },
+  "weight": {
+    "N": "930"
+  },
+  "cornering": {
+    "N": "5.8"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "5.8"
+  },
+  "acceleration": {
+    "N": "6.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:06:31.771Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "710"
+  },
+  "speed": {
+    "N": "9.5"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "9e76f15c-8152-40a1-89b5-e0349f182231"
+  }
+}

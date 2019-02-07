@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:41:21.669Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "Focus ST"
+  },
+  "weight": {
+    "N": "1462"
+  },
+  "cornering": {
+    "N": "1.4"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.7"
+  },
+  "acceleration": {
+    "N": "2.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:41:21.669Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "254"
+  },
+  "speed": {
+    "N": "5.7"
+  },
+  "price": {
+    "N": "29250"
+  },
+  "id": {
+    "S": "0affef7a-2b46-4746-8649-0de613cd7a88"
+  }
+}

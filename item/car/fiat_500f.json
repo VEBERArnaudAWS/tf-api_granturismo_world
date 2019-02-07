@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:36:21.744Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "500 F"
+  },
+  "weight": {
+    "N": "520"
+  },
+  "cornering": {
+    "N": "1.5"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "1.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:36:21.744Z"
+  },
+  "carManufacturerId": {
+    "S": "c8d88fd6-62e8-4ce3-af84-91f3fc4d734c"
+  },
+  "power": {
+    "N": "17"
+  },
+  "speed": {
+    "N": "0"
+  },
+  "price": {
+    "N": "21000"
+  },
+  "id": {
+    "S": "6fce527a-5871-4571-9151-2b8b9e799028"
+  }
+}

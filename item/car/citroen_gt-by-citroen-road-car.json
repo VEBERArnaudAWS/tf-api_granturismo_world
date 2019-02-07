@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:13:25.227Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "GT by Citroën Road Car"
+  },
+  "weight": {
+    "N": "1450"
+  },
+  "cornering": {
+    "N": "2.3"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.3"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:13:25.227Z"
+  },
+  "carManufacturerId": {
+    "S": "b3b3f1e7-bab3-4a16-9be6-5491f58cf395"
+  },
+  "power": {
+    "N": "508"
+  },
+  "speed": {
+    "N": "7"
+  },
+  "price": {
+    "N": "300000"
+  },
+  "id": {
+    "S": "317db4a9-7cd7-452c-bd6e-58b0df0ba778"
+  }
+}

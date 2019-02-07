@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T13:00:08.520Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "RAYBRIG NSX CONCEPT-GT"
+  },
+  "weight": {
+    "N": "1049"
+  },
+  "cornering": {
+    "N": "5.5"
+  },
+  "division": {
+    "S": "Gr.2"
+  },
+  "braking": {
+    "N": "5.5"
+  },
+  "acceleration": {
+    "N": "6.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T13:00:08.520Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "612"
+  },
+  "speed": {
+    "N": "7.1"
+  },
+  "price": {
+    "N": "800000"
+  },
+  "id": {
+    "S": "b7e60c6a-a8ff-40b1-9949-a25afb9c5553"
+  }
+}

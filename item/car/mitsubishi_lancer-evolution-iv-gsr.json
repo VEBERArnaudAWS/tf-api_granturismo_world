@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:39:07.832Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "Lancer Evolution IV GSR"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "5.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:39:07.833Z"
+  },
+  "carManufacturerId": {
+    "S": "2e2c5624-1c75-4a8a-98a3-99918ae0eb21"
+  },
+  "power": {
+    "N": "277"
+  },
+  "speed": {
+    "N": "5.3"
+  },
+  "price": {
+    "N": "30000"
+  },
+  "id": {
+    "S": "395e5cdb-b757-4b5d-a153-e5c0f3e9a2f7"
+  }
+}

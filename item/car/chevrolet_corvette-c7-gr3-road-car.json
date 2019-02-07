@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:56:30.096Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Corvette C7 Gr.3 Road Car"
+  },
+  "weight": {
+    "N": "1480"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.4"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:56:30.096Z"
+  },
+  "carManufacturerId": {
+    "S": "fbb8ae01-3f8d-4ba9-845d-a7a3ac8a5aeb"
+  },
+  "power": {
+    "N": "500"
+  },
+  "speed": {
+    "N": "6.2"
+  },
+  "id": {
+    "S": "ef01052a-3604-4ddc-83b0-41d9eae7a79e"
+  }
+}

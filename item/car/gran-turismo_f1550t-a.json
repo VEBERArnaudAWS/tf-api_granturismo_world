@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:12:28.991Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "F1500T-A"
+  },
+  "weight": {
+    "N": "540"
+  },
+  "cornering": {
+    "N": "7.2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "6.9"
+  },
+  "acceleration": {
+    "N": "8.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:12:28.991Z"
+  },
+  "carManufacturerId": {
+    "S": "ec0bdbea-881f-4912-9630-7bb2c354106a"
+  },
+  "power": {
+    "N": "1000"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "13717953-b030-4357-b02c-9aec0ccb87c5"
+  }
+}

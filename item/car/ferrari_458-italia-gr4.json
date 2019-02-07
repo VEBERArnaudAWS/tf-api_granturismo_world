@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:21:43.651Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "458 Italia Gr.4"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3"
+  },
+  "acceleration": {
+    "N": "4.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:21:43.651Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "380"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "eee5f575-31f2-487c-87b7-d4c3700e041e"
+  }
+}

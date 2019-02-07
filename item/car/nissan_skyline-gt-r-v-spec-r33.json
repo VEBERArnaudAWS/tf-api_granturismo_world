@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:57:08.972Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Skyline GT-R V・spec (R33)"
+  },
+  "weight": {
+    "N": "1540"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "5.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:57:08.972Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "324"
+  },
+  "speed": {
+    "N": "6.8"
+  },
+  "price": {
+    "N": "54000"
+  },
+  "id": {
+    "S": "b18b6074-4e03-4005-a59c-a1cec5d9793d"
+  }
+}

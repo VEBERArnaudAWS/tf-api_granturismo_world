@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:24:47.466Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "BMW M3 Sport Evolution"
+  },
+  "weight": {
+    "N": "1200"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:24:47.466Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "238"
+  },
+  "speed": {
+    "N": "5.9"
+  },
+  "price": {
+    "N": "200000"
+  },
+  "id": {
+    "S": "9dfb783c-5d90-418d-90c4-df088ce86566"
+  }
+}

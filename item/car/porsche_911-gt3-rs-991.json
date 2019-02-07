@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:03:17.394Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "911 GT3 RS (991)"
+  },
+  "weight": {
+    "N": "1420"
+  },
+  "cornering": {
+    "N": "2.3"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.4"
+  },
+  "acceleration": {
+    "N": "5.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:03:17.394Z"
+  },
+  "carManufacturerId": {
+    "S": "90574e81-f742-4693-b347-9de011e8265d"
+  },
+  "power": {
+    "N": "498"
+  },
+  "speed": {
+    "N": "8.6"
+  },
+  "price": {
+    "N": "253000"
+  },
+  "id": {
+    "S": "45c3cfe8-38c7-4b90-b545-ed1ee5f6620a"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:17:00.720Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Fugu Z"
+  },
+  "weight": {
+    "N": "1100"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:17:00.720Z"
+  },
+  "carManufacturerId": {
+    "S": "f9a43c82-5fec-4351-8720-68d048dcc60b"
+  },
+  "power": {
+    "N": "299"
+  },
+  "speed": {
+    "N": "6.6"
+  },
+  "price": {
+    "N": "300000"
+  },
+  "id": {
+    "S": "ad49916c-98d0-452c-a3a3-6d4b798f78b4"
+  }
+}

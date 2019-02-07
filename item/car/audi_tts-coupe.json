@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:14:18.100Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "TTS Coupé"
+  },
+  "weight": {
+    "N": "1385"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "1.8"
+  },
+  "acceleration": {
+    "N": "5.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:14:18.100Z"
+  },
+  "carManufacturerId": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "power": {
+    "N": "310"
+  },
+  "speed": {
+    "N": "6.7"
+  },
+  "price": {
+    "N": "76800"
+  },
+  "id": {
+    "S": "9f6eb673-c115-4fbc-8bef-5e66023ad127"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:13:38.045Z"
+  },
+  "stability": {
+    "N": "5.7"
+  },
+  "name": {
+    "S": "Gran Turismo Racing Kart 125 Shifter"
+  },
+  "weight": {
+    "N": "105"
+  },
+  "cornering": {
+    "N": "4.3"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "4.3"
+  },
+  "acceleration": {
+    "N": "6.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:13:38.045Z"
+  },
+  "carManufacturerId": {
+    "S": "ec0bdbea-881f-4912-9630-7bb2c354106a"
+  },
+  "power": {
+    "N": "50"
+  },
+  "speed": {
+    "N": "2.5"
+  },
+  "price": {
+    "N": "10000"
+  },
+  "id": {
+    "S": "3b69e90b-a052-4d36-9177-39a176064b0e"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:16:00.327Z"
+  },
+  "stability": {
+    "N": "5.2"
+  },
+  "name": {
+    "S": "Viper SRT10 Coupe"
+  },
+  "weight": {
+    "N": "1565"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:16:00.327Z"
+  },
+  "carManufacturerId": {
+    "S": "f591f4e4-bead-4c06-af95-500acb5769c0"
+  },
+  "power": {
+    "N": "516"
+  },
+  "speed": {
+    "N": "8.4"
+  },
+  "price": {
+    "N": "100000"
+  },
+  "id": {
+    "S": "b3dd444a-c6f1-4666-8b86-0a8e592528cc"
+  }
+}

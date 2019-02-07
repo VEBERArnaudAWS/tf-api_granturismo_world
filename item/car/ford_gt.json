@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:42:21.672Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "Ford GT"
+  },
+  "weight": {
+    "N": "1451"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:42:21.672Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "558"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "150000"
+  },
+  "id": {
+    "S": "86776c01-b800-427f-aab7-d6d58be443c6"
+  }
+}

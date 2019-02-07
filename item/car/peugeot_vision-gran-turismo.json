@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:10:36.102Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "PEUGEOT Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "875"
+  },
+  "cornering": {
+    "N": "3.8"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "3.7"
+  },
+  "acceleration": {
+    "N": "8.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:10:36.102Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "886"
+  },
+  "speed": {
+    "N": "9.6"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "d1496d6b-6e4a-4d2b-b5ac-1ea1f0b22c7e"
+  }
+}

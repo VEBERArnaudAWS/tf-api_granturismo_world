@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T06:55:11.740Z"
+  },
+  "stability": {
+    "N": "6.1"
+  },
+  "name": {
+    "S": "F-type Gr.4"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "4.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T06:55:11.740Z"
+  },
+  "carManufacturerId": {
+    "S": "955f8be6-83fb-4404-8fec-e7bfebc1c702"
+  },
+  "power": {
+    "N": "405"
+  },
+  "speed": {
+    "N": "6.4"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "a11c112d-c6c6-4f9d-8739-7586178269f2"
+  }
+}

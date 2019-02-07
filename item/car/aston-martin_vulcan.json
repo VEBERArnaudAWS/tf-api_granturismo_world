@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T16:52:42.409Z"
+  },
+  "stability": {
+    "N": "4"
+  },
+  "name": {
+    "S": "Aston Martin Vulcan"
+  },
+  "weight": {
+    "N": "1360"
+  },
+  "cornering": {
+    "N": "2.5"
+  },
+  "division": {
+    "S": "N800"
+  },
+  "braking": {
+    "N": "2.5"
+  },
+  "acceleration": {
+    "N": "4.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T16:52:42.409Z"
+  },
+  "carManufacturerId": {
+    "S": "cdd6cd80-e937-4ac6-85e6-088c6bfb3ec4"
+  },
+  "power": {
+    "N": "832"
+  },
+  "speed": {
+    "N": "9.5"
+  },
+  "price": {
+    "N": "3300000"
+  },
+  "id": {
+    "S": "d31de362-32d2-4b8c-95e1-5a9556b7fa55"
+  }
+}

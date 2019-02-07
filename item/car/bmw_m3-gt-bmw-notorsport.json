@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:22:42.527Z"
+  },
+  "stability": {
+    "N": "6.7"
+  },
+  "name": {
+    "S": "BMW M3 GT (BMW Motorsport)"
+  },
+  "weight": {
+    "N": "1245"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "5.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:22:42.527Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "507"
+  },
+  "speed": {
+    "N": "6.3"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "306615e6-d105-42d5-b816-b58461552715"
+  }
+}

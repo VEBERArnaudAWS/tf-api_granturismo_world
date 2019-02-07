@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:10:46.565Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "Huracán Gr.4"
+  },
+  "weight": {
+    "N": "1365"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:10:46.565Z"
+  },
+  "carManufacturerId": {
+    "S": "85c6ac3b-ae59-40d4-8ec1-58cc0ffd3915"
+  },
+  "power": {
+    "N": "410"
+  },
+  "speed": {
+    "N": "6.6"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "3ab11184-4b88-4cb7-9048-41b1aaa41737"
+  }
+}

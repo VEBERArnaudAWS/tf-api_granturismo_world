@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:20:59.657Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "BMW M3 Coupé"
+  },
+  "weight": {
+    "N": "1655"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:20:59.657Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "421"
+  },
+  "speed": {
+    "N": "8"
+  },
+  "price": {
+    "N": "93000"
+  },
+  "id": {
+    "S": "27644476-af74-45d0-ac53-10261d46aef2"
+  }
+}

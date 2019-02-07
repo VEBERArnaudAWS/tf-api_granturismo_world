@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:05:05.302Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "208 GTi by Peugeot Sport"
+  },
+  "weight": {
+    "N": "1200"
+  },
+  "cornering": {
+    "N": "1.2"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.4"
+  },
+  "acceleration": {
+    "N": "2.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:05:05.302Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "207"
+  },
+  "speed": {
+    "N": "5"
+  },
+  "price": {
+    "N": "36870"
+  },
+  "id": {
+    "S": "9f53a7cf-d080-4955-ae96-b693fa8550b0"
+  }
+}

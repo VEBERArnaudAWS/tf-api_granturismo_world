@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:25:36.097Z"
+  },
+  "stability": {
+    "N": "6.2"
+  },
+  "name": {
+    "S": "SLS AMG GT3"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "3.9"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "5.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:25:36.097Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "578"
+  },
+  "speed": {
+    "N": "6.6"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "ae77093e-3b60-4ac2-9687-5043a71d1aaa"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:00:22.959Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "GranTurismo S"
+  },
+  "weight": {
+    "N": "1780"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:00:22.959Z"
+  },
+  "carManufacturerId": {
+    "S": "4e97b85e-915b-47e5-bae9-518d83fbaf30"
+  },
+  "power": {
+    "N": "446"
+  },
+  "speed": {
+    "N": "7.7"
+  },
+  "price": {
+    "N": "167000"
+  },
+  "id": {
+    "S": "3d269b40-47a7-4b7d-a84d-abd925dad11d"
+  }
+}

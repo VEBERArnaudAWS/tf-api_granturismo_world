@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:30:48.086Z"
+  },
+  "stability": {
+    "N": "4.6"
+  },
+  "name": {
+    "S": "Dodge Charger SRT Hellcat"
+  },
+  "weight": {
+    "N": "1980"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N700"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:30:48.086Z"
+  },
+  "carManufacturerId": {
+    "S": "f591f4e4-bead-4c06-af95-500acb5769c0"
+  },
+  "power": {
+    "N": "717"
+  },
+  "speed": {
+    "N": "9.4"
+  },
+  "price": {
+    "N": "76800"
+  },
+  "id": {
+    "S": "b3b7a220-ba27-4767-be18-3518ddd98bbc"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T06:39:50.593Z"
+  },
+  "stability": {
+    "N": "4.7"
+  },
+  "name": {
+    "S": "INFINITI CONCEPT Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1680"
+  },
+  "cornering": {
+    "N": "2.9"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.9"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T06:39:50.593Z"
+  },
+  "carManufacturerId": {
+    "S": "28061c77-5f5a-49c9-8e2c-44b4600fe9c9"
+  },
+  "power": {
+    "N": "543"
+  },
+  "speed": {
+    "N": "8"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "cb555247-94ff-4b48-b435-5e907ecfa643"
+  }
+}

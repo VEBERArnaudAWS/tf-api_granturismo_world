@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T16:49:38.890Z"
+  },
+  "stability": {
+    "N": "4.6"
+  },
+  "name": {
+    "S": "Amuse S2000 GT1 Turbo"
+  },
+  "weight": {
+    "N": "1120"
+  },
+  "cornering": {
+    "N": "2.9"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2.9"
+  },
+  "acceleration": {
+    "N": "4.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T16:49:38.890Z"
+  },
+  "carManufacturerId": {
+    "S": "81b769b9-5a72-45c2-9077-e7fc835b4171"
+  },
+  "power": {
+    "N": "625"
+  },
+  "speed": {
+    "N": "7.5"
+  },
+  "price": {
+    "N": "250000"
+  },
+  "id": {
+    "S": "7fb11c32-efd4-4463-ac4f-488ad2c9c595"
+  }
+}

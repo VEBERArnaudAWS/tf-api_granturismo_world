@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T08:12:44.668Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "LC500"
+  },
+  "weight": {
+    "N": "1940"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T08:12:44.668Z"
+  },
+  "carManufacturerId": {
+    "S": "885cb05a-061a-4cda-9640-398d8a0d4daa"
+  },
+  "power": {
+    "N": "476"
+  },
+  "speed": {
+    "N": "7.9"
+  },
+  "price": {
+    "N": "150000"
+  },
+  "id": {
+    "S": "e2599acf-3b7e-4d34-ad19-64246e3fbd24"
+  }
+}

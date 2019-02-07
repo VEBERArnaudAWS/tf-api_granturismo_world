@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:34:04.454Z"
+  },
+  "stability": {
+    "N": "6.2"
+  },
+  "name": {
+    "S": "BMW M6 GT3 M Power Livery"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "4.1"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4.1"
+  },
+  "acceleration": {
+    "N": "5"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:34:04.454Z"
+  },
+  "carManufacturerId": {
+    "S": "aa3c783f-26cd-480f-a9a7-678c23a63029"
+  },
+  "power": {
+    "N": "592"
+  },
+  "speed": {
+    "N": "6.6"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "562f7ed4-1601-49ff-9454-6ca13ef9ebc3"
+  }
+}

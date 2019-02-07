@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:27:15.557Z"
+  },
+  "stability": {
+    "N": "5.7"
+  },
+  "name": {
+    "S": "MINI Clubman Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "1050"
+  },
+  "cornering": {
+    "N": "2.9"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.9"
+  },
+  "acceleration": {
+    "N": "6.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:27:15.557Z"
+  },
+  "carManufacturerId": {
+    "S": "af962a01-17d4-4aa5-bf0f-e96fd70a13ad"
+  },
+  "power": {
+    "N": "394"
+  },
+  "speed": {
+    "N": "6.6"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "cc3b799d-9bd7-440f-84bc-8895f68baf94"
+  }
+}

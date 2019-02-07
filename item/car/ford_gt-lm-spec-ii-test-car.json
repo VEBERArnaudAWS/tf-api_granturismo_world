@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:43:23.608Z"
+  },
+  "stability": {
+    "N": "5.8"
+  },
+  "name": {
+    "S": "Ford GT LM Spec II Test Car"
+  },
+  "weight": {
+    "N": "1165"
+  },
+  "cornering": {
+    "N": "3.9"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "6"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:43:23.608Z"
+  },
+  "carManufacturerId": {
+    "S": "44bed06f-b346-4df4-8233-95b236832bdb"
+  },
+  "power": {
+    "N": "599"
+  },
+  "speed": {
+    "N": "7.4"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "2f9e2c74-aff5-4879-a0e6-1dbe8867f9bf"
+  }
+}

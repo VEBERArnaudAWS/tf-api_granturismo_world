@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:23:27.445Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "512 BB"
+  },
+  "weight": {
+    "N": "1400"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:23:27.445Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "359"
+  },
+  "speed": {
+    "N": "7.9"
+  },
+  "price": {
+    "N": "105000"
+  },
+  "id": {
+    "S": "2406e82d-d0c9-46c7-9011-8d886b02787d"
+  }
+}

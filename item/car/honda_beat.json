@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:24:18.236Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Beat"
+  },
+  "weight": {
+    "N": "760"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "2.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:24:18.236Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "64"
+  },
+  "speed": {
+    "N": "2.2"
+  },
+  "price": {
+    "N": "13800"
+  },
+  "id": {
+    "S": "fec8a0c7-b9a5-4581-8761-e3fafafed65c"
+  }
+}

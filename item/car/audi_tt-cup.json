@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:12:36.418Z"
+  },
+  "stability": {
+    "N": "7"
+  },
+  "name": {
+    "S": "TT cup"
+  },
+  "weight": {
+    "N": "1125"
+  },
+  "cornering": {
+    "N": "3.3"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.3"
+  },
+  "acceleration": {
+    "N": "3.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:12:36.418Z"
+  },
+  "carManufacturerId": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "power": {
+    "N": "340"
+  },
+  "speed": {
+    "N": "5.9"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "75c4bf4e-a5f8-49b0-bdfa-b2493786e0db"
+  }
+}

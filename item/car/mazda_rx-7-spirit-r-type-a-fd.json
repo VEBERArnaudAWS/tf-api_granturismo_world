@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:25:57.567Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "RX-7 Spirit R Type A (FD)"
+  },
+  "weight": {
+    "N": "1270"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:25:57.567Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "297"
+  },
+  "speed": {
+    "N": "6.7"
+  },
+  "price": {
+    "N": "40000"
+  },
+  "id": {
+    "S": "6af78c13-d224-4372-9f76-30074a65659b"
+  }
+}

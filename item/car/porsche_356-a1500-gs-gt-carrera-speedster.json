@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:01:50.902Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "356 A/1500 GS GT Carrera Speedster"
+  },
+  "weight": {
+    "N": "840"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:01:50.902Z"
+  },
+  "carManufacturerId": {
+    "S": "90574e81-f742-4693-b347-9de011e8265d"
+  },
+  "power": {
+    "N": "109"
+  },
+  "speed": {
+    "N": "3.1"
+  },
+  "price": {
+    "N": "1200000"
+  },
+  "id": {
+    "S": "6f0cd260-ac1e-411e-b3ed-e484d417dcda"
+  }
+}

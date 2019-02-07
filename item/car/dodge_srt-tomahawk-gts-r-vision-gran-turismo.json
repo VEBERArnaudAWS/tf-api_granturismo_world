@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:37:10.733Z"
+  },
+  "stability": {
+    "N": "6.8"
+  },
+  "name": {
+    "S": "SRT Tomahawk GTS-R Vision Gran Turismo"
+  },
+  "weight": {
+    "N": "663"
+  },
+  "cornering": {
+    "N": "5.8"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "5.7"
+  },
+  "acceleration": {
+    "N": "10"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:37:10.733Z"
+  },
+  "carManufacturerId": {
+    "S": "f591f4e4-bead-4c06-af95-500acb5769c0"
+  },
+  "power": {
+    "N": "1470"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "c989cbc0-8779-4771-8805-b42984426e9e"
+  }
+}

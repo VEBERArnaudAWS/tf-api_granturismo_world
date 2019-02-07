@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:33:18.978Z"
+  },
+  "stability": {
+    "N": "4.5"
+  },
+  "name": {
+    "S": "Honda Project 2&4 powered by RC213V"
+  },
+  "weight": {
+    "N": "405"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:33:18.978Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "214"
+  },
+  "speed": {
+    "N": "6"
+  },
+  "price": {
+    "N": "100000"
+  },
+  "id": {
+    "S": "d8fa8410-fa25-44a2-b162-3143e72ea006"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:20:49.666Z"
+  },
+  "stability": {
+    "N": "4.5"
+  },
+  "name": {
+    "S": "Mach Forty"
+  },
+  "weight": {
+    "N": "1588"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N800"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:20:49.666Z"
+  },
+  "carManufacturerId": {
+    "S": "d13e2657-246a-452e-bf69-1a29915f9614"
+  },
+  "power": {
+    "N": "799"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "300000"
+  },
+  "id": {
+    "S": "3c3f9d33-052a-4851-becc-e9b7cd74bad4"
+  }
+}

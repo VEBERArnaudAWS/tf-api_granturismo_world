@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:05:47.552Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "TOYOTA 86 Gr.4"
+  },
+  "weight": {
+    "N": "1200"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:05:47.552Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "364"
+  },
+  "speed": {
+    "N": "6.1"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "1ba8bf13-a81e-4e11-8e48-76f184e02752"
+  }
+}

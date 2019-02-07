@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:24:15.892Z"
+  },
+  "stability": {
+    "N": "5.9"
+  },
+  "name": {
+    "S": "SLS AMG Gr.4"
+  },
+  "weight": {
+    "N": "1415"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "5.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:24:15.892Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "425"
+  },
+  "speed": {
+    "N": "6.5"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "f333142d-257f-425d-9875-781b694ea3df"
+  }
+}

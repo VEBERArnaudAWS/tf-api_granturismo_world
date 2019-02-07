@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:25:24.520Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "Enzo Ferrari"
+  },
+  "weight": {
+    "N": "1255"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N700"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:25:24.520Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "668"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "0625cd64-b19b-451c-82d1-14c235a86f37"
+  }
+}

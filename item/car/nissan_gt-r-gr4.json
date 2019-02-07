@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:43:47.983Z"
+  },
+  "stability": {
+    "N": "6.4"
+  },
+  "name": {
+    "S": "GT-R Gr.4"
+  },
+  "weight": {
+    "N": "1450"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3.1"
+  },
+  "acceleration": {
+    "N": "5.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:43:47.983Z"
+  },
+  "carManufacturerId": {
+    "S": "808f3aa3-66cb-423b-a3fe-ec28b2682176"
+  },
+  "power": {
+    "N": "435"
+  },
+  "speed": {
+    "N": "6.5"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "089b507a-d80d-4baa-ab2f-a284c38a17d3"
+  }
+}

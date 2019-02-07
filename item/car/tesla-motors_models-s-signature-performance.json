@@ -1,0 +1,44 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:54:42.969Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "Model S Signature Performance"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "2.2"
+  },
+  "acceleration": {
+    "N": "4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:54:42.969Z"
+  },
+  "carManufacturerId": {
+    "S": "3c6d5a2a-3cb3-44fd-a435-237f9b620f4b"
+  },
+  "speed": {
+    "N": "4"
+  },
+  "price": {
+    "N": "92000"
+  },
+  "id": {
+    "S": "f797e477-310d-4864-b2fe-68e08a844fe5"
+  }
+}

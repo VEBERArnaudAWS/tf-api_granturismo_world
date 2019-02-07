@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:09:12.935Z"
+  },
+  "stability": {
+    "N": "8.4"
+  },
+  "name": {
+    "S": "Peugeot L750R HYbrid Vision Gran Turismo, 2017"
+  },
+  "weight": {
+    "N": "900"
+  },
+  "cornering": {
+    "N": "6.3"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "6.2"
+  },
+  "acceleration": {
+    "N": "7.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:09:12.935Z"
+  },
+  "carManufacturerId": {
+    "S": "e2c59b11-8704-4694-b694-669c0db6928f"
+  },
+  "power": {
+    "N": "703"
+  },
+  "speed": {
+    "N": "8.9"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "da16a023-a007-4aba-a8bb-25f41ccdcbc1"
+  }
+}

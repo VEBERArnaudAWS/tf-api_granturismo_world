@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T16:55:51.279Z"
+  },
+  "stability": {
+    "N": "4.7"
+  },
+  "name": {
+    "S": "One-77"
+  },
+  "weight": {
+    "N": "1630"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N800"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T16:55:51.279Z"
+  },
+  "carManufacturerId": {
+    "S": "cdd6cd80-e937-4ac6-85e6-088c6bfb3ec4"
+  },
+  "power": {
+    "N": "759"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1320000"
+  },
+  "id": {
+    "S": "1a5de903-9f0d-42e5-9438-973f3c6ab445"
+  }
+}

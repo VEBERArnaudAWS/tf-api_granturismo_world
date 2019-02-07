@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:24:28.782Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "RX-7 GT-X (FC)"
+  },
+  "weight": {
+    "N": "1250"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.4"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:24:28.782Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "206"
+  },
+  "speed": {
+    "N": "5.6"
+  },
+  "price": {
+    "N": "24800"
+  },
+  "id": {
+    "S": "59524a33-7294-4f36-96a3-121c519e5c34"
+  }
+}

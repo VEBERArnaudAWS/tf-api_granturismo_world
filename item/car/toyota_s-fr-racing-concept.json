@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:15:47.710Z"
+  },
+  "stability": {
+    "N": "5.4"
+  },
+  "name": {
+    "S": "TOYOTA S-FR Racing Concept"
+  },
+  "weight": {
+    "N": "1150"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N400"
+  },
+  "braking": {
+    "N": "1.8"
+  },
+  "acceleration": {
+    "N": "3.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:15:47.710Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "354"
+  },
+  "speed": {
+    "N": "6.4"
+  },
+  "price": {
+    "N": "80000"
+  },
+  "id": {
+    "S": "f5de3b2e-6c01-4ac4-99f9-d1d7a868f429"
+  }
+}

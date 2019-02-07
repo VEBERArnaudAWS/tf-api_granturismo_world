@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T17:16:36.590Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "Vantage Gr.4"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "3.1"
+  },
+  "division": {
+    "S": "Gr.4"
+  },
+  "braking": {
+    "N": "3"
+  },
+  "acceleration": {
+    "N": "4.7"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T17:16:36.590Z"
+  },
+  "carManufacturerId": {
+    "S": "cdd6cd80-e937-4ac6-85e6-088c6bfb3ec4"
+  },
+  "power": {
+    "N": "405"
+  },
+  "speed": {
+    "N": "6.4"
+  },
+  "price": {
+    "N": "350000"
+  },
+  "id": {
+    "S": "8718da9f-2007-4131-b6af-57be96aa0cd1"
+  }
+}

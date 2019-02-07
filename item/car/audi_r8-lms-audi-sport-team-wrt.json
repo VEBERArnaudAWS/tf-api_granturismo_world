@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:06:05.439Z"
+  },
+  "stability": {
+    "N": "5.6"
+  },
+  "name": {
+    "S": "Audi R8 LMS (Audi Sport Team WRT)"
+  },
+  "weight": {
+    "N": "1225"
+  },
+  "cornering": {
+    "N": "4"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "4"
+  },
+  "acceleration": {
+    "N": "5.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:06:05.439Z"
+  },
+  "carManufacturerId": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "power": {
+    "N": "594"
+  },
+  "speed": {
+    "N": "7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "aed96cd4-0ef3-451b-a221-ce609e4788ab"
+  }
+}

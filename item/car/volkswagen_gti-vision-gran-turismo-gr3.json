@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T15:39:02.120Z"
+  },
+  "stability": {
+    "N": "6"
+  },
+  "name": {
+    "S": "GTI Vision Gran Turismo (Gr.3)"
+  },
+  "weight": {
+    "N": "1260"
+  },
+  "cornering": {
+    "N": "3.8"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.8"
+  },
+  "acceleration": {
+    "N": "5.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T15:39:02.120Z"
+  },
+  "carManufacturerId": {
+    "S": "4513c60d-7b80-48b8-82fe-8419ba47274f"
+  },
+  "power": {
+    "N": "559"
+  },
+  "speed": {
+    "N": "6.7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "64bb80ce-1fdf-470f-85f7-12cbaa89471d"
+  }
+}

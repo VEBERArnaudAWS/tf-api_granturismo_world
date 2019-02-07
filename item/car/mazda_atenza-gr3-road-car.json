@@ -1,0 +1,47 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:29:47.299Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Atenza Gr.3 Road Car"
+  },
+  "weight": {
+    "N": "1450"
+  },
+  "cornering": {
+    "N": "2.4"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.5"
+  },
+  "acceleration": {
+    "N": "3.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:29:47.299Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "490"
+  },
+  "speed": {
+    "N": "5.4"
+  },
+  "id": {
+    "S": "dde66cae-1632-4782-88f4-2e08176d4659"
+  }
+}

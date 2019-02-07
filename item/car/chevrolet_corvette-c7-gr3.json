@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:55:03.486Z"
+  },
+  "stability": {
+    "N": "6.2"
+  },
+  "name": {
+    "S": "Corvette C7 Gr.3"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "3.9"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "5.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:55:03.486Z"
+  },
+  "carManufacturerId": {
+    "S": "fbb8ae01-3f8d-4ba9-845d-a7a3ac8a5aeb"
+  },
+  "power": {
+    "N": "559"
+  },
+  "speed": {
+    "N": "6.5"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "08d81044-249b-4ef7-a98c-22f1aaea2f8f"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:15:46.791Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Mercedes-AMG GT S"
+  },
+  "weight": {
+    "N": "1570"
+  },
+  "cornering": {
+    "N": "2.1"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:15:46.791Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "510"
+  },
+  "speed": {
+    "N": "8.8"
+  },
+  "price": {
+    "N": "184000"
+  },
+  "id": {
+    "S": "cb667c7c-0bad-4884-90b4-64f3f20c8366"
+  }
+}

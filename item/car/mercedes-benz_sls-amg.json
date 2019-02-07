@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:23:05.401Z"
+  },
+  "stability": {
+    "N": "5"
+  },
+  "name": {
+    "S": "SLS AMG"
+  },
+  "weight": {
+    "N": "1620"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:23:05.401Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "578"
+  },
+  "speed": {
+    "N": "9.4"
+  },
+  "price": {
+    "N": "197620"
+  },
+  "id": {
+    "S": "e54d1317-e5f5-4a75-82f3-bfa4ec6b59e2"
+  }
+}

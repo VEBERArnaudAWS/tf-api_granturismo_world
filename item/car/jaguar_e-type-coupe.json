@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T06:52:40.681Z"
+  },
+  "stability": {
+    "N": "4.8"
+  },
+  "name": {
+    "S": "E-type Coupé"
+  },
+  "weight": {
+    "N": "1300"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T06:52:40.681Z"
+  },
+  "carManufacturerId": {
+    "S": "955f8be6-83fb-4404-8fec-e7bfebc1c702"
+  },
+  "power": {
+    "N": "268"
+  },
+  "speed": {
+    "N": "5.2"
+  },
+  "price": {
+    "N": "170000"
+  },
+  "id": {
+    "S": "d7d744e5-eaa2-4770-b8a0-e0ce94d9afe7"
+  }
+}

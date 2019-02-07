@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T13:03:00.910Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "4C Launch Edition"
+  },
+  "weight": {
+    "N": "950"
+  },
+  "cornering": {
+    "N": "1.5"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.6"
+  },
+  "acceleration": {
+    "N": "4.2"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T13:03:00.910Z"
+  },
+  "carManufacturerId": {
+    "S": "3be660a9-39f0-485c-a091-836b277b9251"
+  },
+  "power": {
+    "N": "239"
+  },
+  "speed": {
+    "N": "6.2"
+  },
+  "price": {
+    "N": "89100"
+  },
+  "id": {
+    "S": "e70c3d22-0d58-4242-a040-281305b6b320"
+  }
+}
