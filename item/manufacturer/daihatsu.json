@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:24:59.851Z"
+  },
+  "id": {
+    "S": "522e7237-194b-4adc-9dc5-4932a884352c"
+  },
+  "name": {
+    "S": "Daihatsu"
+  },
+  "country": {
+    "S": "Japan"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:24:59.851Z"
+  }
+}

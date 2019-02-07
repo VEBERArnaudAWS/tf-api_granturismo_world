@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:31:30.648Z"
+  },
+  "id": {
+    "S": "c84f7cbe-d50c-4fe4-ba08-fedd74c32dc5"
+  },
+  "name": {
+    "S": "KTM"
+  },
+  "country": {
+    "S": "Austria"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:31:30.648Z"
+  }
+}

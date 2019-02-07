@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:36:34.268Z"
+  },
+  "id": {
+    "S": "e2f7b444-7cf9-4b63-9f34-94d6ff771742"
+  },
+  "name": {
+    "S": "Pontiac"
+  },
+  "country": {
+    "S": "United States"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:36:34.268Z"
+  }
+}

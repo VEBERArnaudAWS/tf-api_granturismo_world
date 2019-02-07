@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:36:46.658Z"
+  },
+  "id": {
+    "S": "90574e81-f742-4693-b347-9de011e8265d"
+  },
+  "name": {
+    "S": "Porsche"
+  },
+  "country": {
+    "S": "Germany"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:36:46.658Z"
+  }
+}

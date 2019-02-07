@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:27:07.546Z"
+  },
+  "id": {
+    "S": "ec0bdbea-881f-4912-9630-7bb2c354106a"
+  },
+  "name": {
+    "S": "Gran Turismo"
+  },
+  "country": {
+    "S": "?"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:27:07.546Z"
+  }
+}

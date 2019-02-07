@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:25:29.531Z"
+  },
+  "id": {
+    "S": "3d7c88b0-1095-4111-b08e-60ec7fa5b5df"
+  },
+  "name": {
+    "S": "De Tomaso"
+  },
+  "country": {
+    "S": "Italy"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:25:29.531Z"
+  }
+}

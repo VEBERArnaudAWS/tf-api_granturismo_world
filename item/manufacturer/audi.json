@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:23:03.359Z"
+  },
+  "id": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "name": {
+    "S": "Audi"
+  },
+  "country": {
+    "S": "Germany"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:23:03.359Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:24:05.149Z"
+  },
+  "id": {
+    "S": "9c308719-2fa9-4eb5-8283-a0899f838dc4"
+  },
+  "name": {
+    "S": "Chaparral"
+  },
+  "country": {
+    "S": "United States"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:24:05.149Z"
+  }
+}

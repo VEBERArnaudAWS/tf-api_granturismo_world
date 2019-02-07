@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:24:22.968Z"
+  },
+  "id": {
+    "S": "b3b3f1e7-bab3-4a16-9be6-5491f58cf395"
+  },
+  "name": {
+    "S": "Citroën"
+  },
+  "country": {
+    "S": "France"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:24:22.968Z"
+  }
+}

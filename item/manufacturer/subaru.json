@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:37:26.297Z"
+  },
+  "id": {
+    "S": "55c9732e-3686-4e53-961e-5c85649c789d"
+  },
+  "name": {
+    "S": "Subaru"
+  },
+  "country": {
+    "S": "Japan"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:37:26.297Z"
+  }
+}

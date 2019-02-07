@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:22:50.585Z"
+  },
+  "id": {
+    "S": "cdd6cd80-e937-4ac6-85e6-088c6bfb3ec4"
+  },
+  "name": {
+    "S": "Aston Martin"
+  },
+  "country": {
+    "S": "Great Britain"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:22:50.585Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T01:29:42.431Z"
+  },
+  "id": {
+    "S": "b981a17c-00d9-4f39-b36c-a35150254709"
+  },
+  "country": {
+    "S": "France"
+  },
+  "name": {
+    "S": "Renault Sport"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T10:54:52.129Z"
+  }
+}

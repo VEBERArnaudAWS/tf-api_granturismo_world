@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:34:49.980Z"
+  },
+  "id": {
+    "S": "af962a01-17d4-4aa5-bf0f-e96fd70a13ad"
+  },
+  "name": {
+    "S": "MINI"
+  },
+  "country": {
+    "S": "Germany"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:34:49.980Z"
+  }
+}

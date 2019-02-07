@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:21:32.207Z"
+  },
+  "id": {
+    "S": "3be660a9-39f0-485c-a091-836b277b9251"
+  },
+  "name": {
+    "S": "Alfa Romeo"
+  },
+  "country": {
+    "S": "Italy"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:21:32.207Z"
+  }
+}

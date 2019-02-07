@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:33:39.507Z"
+  },
+  "id": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "name": {
+    "S": "Mazda"
+  },
+  "country": {
+    "S": "Japan"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:33:39.507Z"
+  }
+}

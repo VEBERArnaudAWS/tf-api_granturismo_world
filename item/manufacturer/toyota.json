@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:38:26.729Z"
+  },
+  "id": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "name": {
+    "S": "Toyota"
+  },
+  "country": {
+    "S": "Japan"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:38:26.729Z"
+  }
+}

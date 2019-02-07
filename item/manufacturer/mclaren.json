@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:34:07.441Z"
+  },
+  "id": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "name": {
+    "S": "McLaren"
+  },
+  "country": {
+    "S": "Great Britain"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:34:07.441Z"
+  }
+}
