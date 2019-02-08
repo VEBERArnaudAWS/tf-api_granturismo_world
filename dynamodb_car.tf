@@ -1,10 +1,8 @@
 # Car table
 resource "aws_dynamodb_table" "car" {
-  name           = "Car-${lookup(var.env_names, terraform.workspace)}"
-  billing_mode   = "PROVISIONED"
-  hash_key       = "id"
-  write_capacity = 1
-  read_capacity  = 1
+  name         = "Car-${lookup(var.env_names, terraform.workspace)}"
+  billing_mode = "PAY_PER_REQUEST"
+  hash_key     = "id"
 
   attribute = {
     name = "id"
@@ -18,8 +16,6 @@ resource "aws_dynamodb_table" "car" {
 
   global_secondary_index = {
     name            = "ManufacturerCars"
-    write_capacity  = 1
-    read_capacity   = 1
     hash_key        = "carManufacturerId"
     projection_type = "ALL"
   }

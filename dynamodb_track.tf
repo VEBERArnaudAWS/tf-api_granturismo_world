@@ -1,10 +1,8 @@
 # Track table
 resource "aws_dynamodb_table" "track" {
-  name           = "Track-${lookup(var.env_names, terraform.workspace)}"
-  billing_mode   = "PROVISIONED"
-  hash_key       = "id"
-  write_capacity = 1
-  read_capacity  = 1
+  name         = "Track-${lookup(var.env_names, terraform.workspace)}"
+  billing_mode = "PAY_PER_REQUEST"
+  hash_key     = "id"
 
   attribute = {
     name = "id"
