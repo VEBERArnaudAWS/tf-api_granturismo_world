@@ -18,7 +18,7 @@ data "aws_iam_policy_document" "car_table_assume_role" {
 }
 
 resource "aws_iam_role" "car_table" {
-  name = "gtsport-CarTable-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-car"
 
   assume_role_policy = "${data.aws_iam_policy_document.car_table_assume_role.json}"
 
@@ -54,7 +54,7 @@ data "aws_iam_policy_document" "car_table" {
 }
 
 resource "aws_iam_role_policy" "car_table" {
-  name = "gtsport-CarTableAccess-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-car-access"
 
   role = "${aws_iam_role.car_table.id}"
 

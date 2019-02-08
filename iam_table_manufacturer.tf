@@ -18,7 +18,7 @@ data "aws_iam_policy_document" "manufacturer_table_assume_role" {
 }
 
 resource "aws_iam_role" "manufacturer_table" {
-  name = "gtsport-ManufacturerTable-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-manufacturer"
 
   assume_role_policy = "${data.aws_iam_policy_document.manufacturer_table_assume_role.json}"
 
@@ -54,7 +54,7 @@ data "aws_iam_policy_document" "manufacturer_table" {
 }
 
 resource "aws_iam_role_policy" "manufacturer_table" {
-  name = "gtsport-ManufacturerTableAccess-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-manufacturer-access"
 
   role = "${aws_iam_role.manufacturer_table.id}"
 

@@ -18,7 +18,7 @@ data "aws_iam_policy_document" "race_table_assume_role" {
 }
 
 resource "aws_iam_role" "race_table" {
-  name = "gtsport-RaceTable-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-race"
 
   assume_role_policy = "${data.aws_iam_policy_document.race_table_assume_role.json}"
 
@@ -54,7 +54,7 @@ data "aws_iam_policy_document" "race_table" {
 }
 
 resource "aws_iam_role_policy" "race_table" {
-  name = "gtsport-RaceTableAccess-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-race-access"
 
   role = "${aws_iam_role.race_table.id}"
 

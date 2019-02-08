@@ -1,6 +1,6 @@
 # user pool
 resource "aws_cognito_user_pool" "main" {
-  name = "gtsport-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}"
 
   admin_create_user_config = {}
 

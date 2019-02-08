@@ -18,7 +18,7 @@ data "aws_iam_policy_document" "track_table_assume_role" {
 }
 
 resource "aws_iam_role" "track_table" {
-  name = "gtsport-TrackTable-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-track"
 
   assume_role_policy = "${data.aws_iam_policy_document.track_table_assume_role.json}"
 
@@ -54,7 +54,7 @@ data "aws_iam_policy_document" "track_table" {
 }
 
 resource "aws_iam_role_policy" "track_table" {
-  name = "gtsport-TrackTableAccess-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-track-access"
 
   role = "${aws_iam_role.track_table.id}"
 
