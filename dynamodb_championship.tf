@@ -1,6 +1,6 @@
 # Championship table
 resource "aws_dynamodb_table" "championship" {
-  name         = "Championship-${lookup(var.env_names, terraform.workspace)}"
+  name         = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_championship"
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "id"
 

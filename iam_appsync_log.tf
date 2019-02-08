@@ -18,7 +18,7 @@ data "aws_iam_policy_document" "appsync_log_assume_role" {
 }
 
 resource "aws_iam_role" "appsync_log" {
-  name = "appsync-log-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_appsync-log"
 
   assume_role_policy = "${data.aws_iam_policy_document.appsync_log_assume_role.json}"
 

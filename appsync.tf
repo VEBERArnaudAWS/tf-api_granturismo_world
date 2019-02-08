@@ -4,7 +4,7 @@ data "local_file" "schema" {
 }
 
 resource "aws_appsync_graphql_api" "main" {
-  name = "gtsport-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}"
 
   authentication_type = "AMAZON_COGNITO_USER_POOLS"
 

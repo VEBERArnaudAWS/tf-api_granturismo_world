@@ -1,6 +1,6 @@
 # Car table
 resource "aws_dynamodb_table" "car" {
-  name         = "Car-${lookup(var.env_names, terraform.workspace)}"
+  name         = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_car"
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "id"
 

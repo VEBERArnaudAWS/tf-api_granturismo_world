@@ -18,7 +18,7 @@ data "aws_iam_policy_document" "championship_table_assume_role" {
 }
 
 resource "aws_iam_role" "championship_table" {
-  name = "gtsport-ChampionshipTable-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-championship"
 
   assume_role_policy = "${data.aws_iam_policy_document.championship_table_assume_role.json}"
 
@@ -54,7 +54,7 @@ data "aws_iam_policy_document" "championship_table" {
 }
 
 resource "aws_iam_role_policy" "championship_table" {
-  name = "gtsport-ChampionshipTableAccess-${lookup(var.env_names, terraform.workspace)}"
+  name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}_table-championship-access"
 
   role = "${aws_iam_role.championship_table.id}"
 
