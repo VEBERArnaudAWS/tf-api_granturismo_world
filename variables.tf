@@ -1,13 +1,13 @@
 variable "application" {
   type = "string"
 
-  default = "gtsport"
+  default = "api"
 }
 
 variable "domain" {
   type = "string"
 
-  default = "veber.io"
+  default = "granturismo.world"
 }
 
 variable "env_names" {
