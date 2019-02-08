@@ -1,10 +1,8 @@
 # Manufacturer table
 resource "aws_dynamodb_table" "manufacturer" {
-  name           = "Manufacturer-${lookup(var.env_names, terraform.workspace)}"
-  billing_mode   = "PROVISIONED"
-  hash_key       = "id"
-  write_capacity = 1
-  read_capacity  = 1
+  name         = "Manufacturer-${lookup(var.env_names, terraform.workspace)}"
+  billing_mode = "PAY_PER_REQUEST"
+  hash_key     = "id"
 
   attribute = {
     name = "id"
