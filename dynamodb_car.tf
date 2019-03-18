@@ -3163,6 +3163,18 @@ resource "aws_dynamodb_table_item" "car_toyota_gr-supra-racing-concept" {
   item = "${data.local_file.car_toyota_gr-supra-racing-concept.content}"
 }
 
+# toyota_gr-supra-rz-2019 item
+data "local_file" "car_toyota_gr-supra-rz-2019" {
+  filename = "${path.module}/item/car/toyota_gr-supra-rz-2019.json"
+}
+
+resource "aws_dynamodb_table_item" "car_toyota_gr-supra-rz-2019" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_toyota_gr-supra-rz-2019.content}"
+}
+
 # toyota_mr2-gt-s item
 data "local_file" "car_toyota_mr2-gt-s" {
   filename = "${path.module}/item/car/toyota_mr2-gt-s.json"

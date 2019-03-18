@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T14:12:59.777Z"
+  },
+  "stability": {
+    "N": "5.0"
+  },
+  "name": {
+    "S": "GR Supra RZ"
+  },
+  "weight": {
+    "N": "1520"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2.1"
+  },
+  "acceleration": {
+    "N": "4.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T14:12:59.777Z"
+  },
+  "carManufacturerId": {
+    "S": "f41adcc0-d916-407a-a243-8142b9fe799c"
+  },
+  "power": {
+    "N": "340"
+  },
+  "speed": {
+    "N": "7.4"
+  },
+  "price": {
+    "N": "100000"
+  },
+  "id": {
+    "S": "2b3511c8-f11a-4e92-99f5-741cd3079eae"
+  }
+}
