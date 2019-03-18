@@ -2539,6 +2539,18 @@ resource "aws_dynamodb_table_item" "car_nissan_xanavi-nismo-gt-r" {
   item = "${data.local_file.car_nissan_xanavi-nismo-gt-r.content}"
 }
 
+# pagani_huayra item
+data "local_file" "car_pagani_huayra" {
+  filename = "${path.module}/item/car/pagani_huayra.json"
+}
+
+resource "aws_dynamodb_table_item" "car_pagani_huayra" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_pagani_huayra.content}"
+}
+
 # pagani_zonda-r item
 data "local_file" "car_pagani_zonda-r" {
   filename = "${path.module}/item/car/pagani_zonda-r.json"

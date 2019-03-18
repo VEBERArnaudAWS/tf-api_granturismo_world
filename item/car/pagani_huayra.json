@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T12:02:10.562Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "Huayra"
+  },
+  "weight": {
+    "N": "1350"
+  },
+  "cornering": {
+    "N": "2.3"
+  },
+  "division": {
+    "S": "N700"
+  },
+  "braking": {
+    "N": "2.3"
+  },
+  "acceleration": {
+    "N": "4.8"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T12:02:10.562Z"
+  },
+  "carManufacturerId": {
+    "S": "59c38c3e-0fb1-4cc5-8e98-2ab6d215be45"
+  },
+  "power": {
+    "N": "741"
+  },
+  "speed": {
+    "N": "10"
+  },
+  "price": {
+    "N": "1350000"
+  },
+  "id": {
+    "S": "b74fefbd-b545-42de-be37-2b3da5f2dd10"
+  }
+}
