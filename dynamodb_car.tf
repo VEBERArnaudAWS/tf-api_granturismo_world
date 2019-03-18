@@ -1915,6 +1915,18 @@ resource "aws_dynamodb_table_item" "car_mazda_atenza-sedan-xd-l-package" {
   item = "${data.local_file.car_mazda_atenza-sedan-xd-l-package.content}"
 }
 
+# mazda_eunos-roadster-na-special-package item
+data "local_file" "car_mazda_eunos-roadster-na-special-package" {
+  filename = "${path.module}/item/car/mazda_eunos-roadster-na-special-package.json"
+}
+
+resource "aws_dynamodb_table_item" "car_mazda_eunos-roadster-na-special-package" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_mazda_eunos-roadster-na-special-package.content}"
+}
+
 # mazda_lm55-vision-gran-turismo-gr1 item
 data "local_file" "car_mazda_lm55-vision-gran-turismo-gr1" {
   filename = "${path.module}/item/car/mazda_lm55-vision-gran-turismo-gr1.json"
