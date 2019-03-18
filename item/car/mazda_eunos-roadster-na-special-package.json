@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:01:55.774Z"
+  },
+  "stability": {
+    "N": "5.0"
+  },
+  "name": {
+    "S": "Eunos Roadster (NA Special Package)"
+  },
+  "weight": {
+    "N": "940"
+  },
+  "cornering": {
+    "N": "1.7"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:01:55.774Z"
+  },
+  "carManufacturerId": {
+    "S": "b29f2358-ca31-4068-9abc-c66662473cca"
+  },
+  "power": {
+    "N": "119"
+  },
+  "speed": {
+    "N": "4.1"
+  },
+  "price": {
+    "N": "17000"
+  },
+  "id": {
+    "S": "833d2120-dffc-4467-b2f9-ad93f506c4f2"
+  }
+}

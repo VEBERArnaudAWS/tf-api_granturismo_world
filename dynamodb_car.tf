@@ -1915,6 +1915,18 @@ resource "aws_dynamodb_table_item" "car_mazda_atenza-sedan-xd-l-package" {
   item = "${data.local_file.car_mazda_atenza-sedan-xd-l-package.content}"
 }
 
+# mazda_eunos-roadster-na-special-package item
+data "local_file" "car_mazda_eunos-roadster-na-special-package" {
+  filename = "${path.module}/item/car/mazda_eunos-roadster-na-special-package.json"
+}
+
+resource "aws_dynamodb_table_item" "car_mazda_eunos-roadster-na-special-package" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_mazda_eunos-roadster-na-special-package.content}"
+}
+
 # mazda_lm55-vision-gran-turismo-gr1 item
 data "local_file" "car_mazda_lm55-vision-gran-turismo-gr1" {
   filename = "${path.module}/item/car/mazda_lm55-vision-gran-turismo-gr1.json"
@@ -2021,6 +2033,18 @@ resource "aws_dynamodb_table_item" "car_mclaren_650s-gt3" {
   hash_key   = "${aws_dynamodb_table.car.hash_key}"
 
   item = "${data.local_file.car_mclaren_650s-gt3.content}"
+}
+
+# mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing item
+data "local_file" "car_mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing" {
+  filename = "${path.module}/item/car/mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing.json"
+}
+
+resource "aws_dynamodb_table_item" "car_mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing.content}"
 }
 
 # mclaren_f1 item
@@ -2189,6 +2213,18 @@ resource "aws_dynamodb_table_item" "car_mercedes-benz_sauber-mercedes-c9" {
   hash_key   = "${aws_dynamodb_table.car.hash_key}"
 
   item = "${data.local_file.car_mercedes-benz_sauber-mercedes-c9.content}"
+}
+
+# mercedes-benz_slr-mclaren item
+data "local_file" "car_mercedes-benz_slr-mclaren" {
+  filename = "${path.module}/item/car/mercedes-benz_slr-mclaren.json"
+}
+
+resource "aws_dynamodb_table_item" "car_mercedes-benz_slr-mclaren" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_mercedes-benz_slr-mclaren.content}"
 }
 
 # mercedes-benz_sls-amg-gr4 item
@@ -2537,6 +2573,18 @@ resource "aws_dynamodb_table_item" "car_nissan_xanavi-nismo-gt-r" {
   hash_key   = "${aws_dynamodb_table.car.hash_key}"
 
   item = "${data.local_file.car_nissan_xanavi-nismo-gt-r.content}"
+}
+
+# pagani_huayra item
+data "local_file" "car_pagani_huayra" {
+  filename = "${path.module}/item/car/pagani_huayra.json"
+}
+
+resource "aws_dynamodb_table_item" "car_pagani_huayra" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_pagani_huayra.content}"
 }
 
 # pagani_zonda-r item
@@ -3161,6 +3209,18 @@ resource "aws_dynamodb_table_item" "car_toyota_gr-supra-racing-concept" {
   hash_key   = "${aws_dynamodb_table.car.hash_key}"
 
   item = "${data.local_file.car_toyota_gr-supra-racing-concept.content}"
+}
+
+# toyota_gr-supra-rz-2019 item
+data "local_file" "car_toyota_gr-supra-rz-2019" {
+  filename = "${path.module}/item/car/toyota_gr-supra-rz-2019.json"
+}
+
+resource "aws_dynamodb_table_item" "car_toyota_gr-supra-rz-2019" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_toyota_gr-supra-rz-2019.content}"
 }
 
 # toyota_mr2-gt-s item
