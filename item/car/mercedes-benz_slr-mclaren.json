@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T11:24:15.892Z"
+  },
+  "stability": {
+    "N": "5.5"
+  },
+  "name": {
+    "S": "SLR McLaren"
+  },
+  "weight": {
+    "N": "1768"
+  },
+  "cornering": {
+    "N": "2.2"
+  },
+  "division": {
+    "S": "N600"
+  },
+  "braking": {
+    "N": "2.2"
+  },
+  "acceleration": {
+    "N": "4.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T11:24:15.892Z"
+  },
+  "carManufacturerId": {
+    "S": "c5a6a842-0115-4f0b-a07b-6a76f54a4dfd"
+  },
+  "power": {
+    "N": "625"
+  },
+  "speed": {
+    "N": "9.4"
+  },
+  "price": {
+    "N": "600000"
+  },
+  "id": {
+    "S": "f0f045e6-52b1-4d70-9c95-32b604903cbe"
+  }
+}

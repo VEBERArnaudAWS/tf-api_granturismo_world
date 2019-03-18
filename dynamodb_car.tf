@@ -2191,6 +2191,18 @@ resource "aws_dynamodb_table_item" "car_mercedes-benz_sauber-mercedes-c9" {
   item = "${data.local_file.car_mercedes-benz_sauber-mercedes-c9.content}"
 }
 
+# mercedes-benz_slr-mclaren item
+data "local_file" "car_mercedes-benz_slr-mclaren" {
+  filename = "${path.module}/item/car/mercedes-benz_slr-mclaren.json"
+}
+
+resource "aws_dynamodb_table_item" "car_mercedes-benz_slr-mclaren" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_mercedes-benz_slr-mclaren.content}"
+}
+
 # mercedes-benz_sls-amg-gr4 item
 data "local_file" "car_mercedes-benz_sls-amg-gr4" {
   filename = "${path.module}/item/car/mercedes-benz_sls-amg-gr4.json"
