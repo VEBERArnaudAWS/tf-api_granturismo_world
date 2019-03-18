@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T09:46:56.723Z"
+  },
+  "stability": {
+    "N": "5.8"
+  },
+  "name": {
+    "S": "McLaren F1 GTR - BMW (Kokusai Kaihatsu UK Racing)"
+  },
+  "weight": {
+    "N": "1050"
+  },
+  "cornering": {
+    "N": "4.0"
+  },
+  "division": {
+    "S": "Gr.3"
+  },
+  "braking": {
+    "N": "3.9"
+  },
+  "acceleration": {
+    "N": "5.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T09:46:56.723Z"
+  },
+  "carManufacturerId": {
+    "S": "804d4501-ce81-4899-a018-dd348910bf42"
+  },
+  "power": {
+    "N": "609"
+  },
+  "speed": {
+    "N": "7.7"
+  },
+  "price": {
+    "N": "450000"
+  },
+  "id": {
+    "S": "8414e073-9e51-44f5-8291-284b6ba17293"
+  }
+}

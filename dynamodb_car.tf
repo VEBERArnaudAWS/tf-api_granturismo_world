@@ -2035,6 +2035,18 @@ resource "aws_dynamodb_table_item" "car_mclaren_650s-gt3" {
   item = "${data.local_file.car_mclaren_650s-gt3.content}"
 }
 
+# mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing item
+data "local_file" "car_mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing" {
+  filename = "${path.module}/item/car/mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing.json"
+}
+
+resource "aws_dynamodb_table_item" "car_mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_mclaren_f1-gtr-bmw-kokusai-kaihatsu-uk-racing.content}"
+}
+
 # mclaren_f1 item
 data "local_file" "car_mclaren_f1" {
   filename = "${path.module}/item/car/mclaren_f1.json"
