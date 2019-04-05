@@ -1,0 +1,1 @@
+bin/provider/terraform-provider-aws.tar.gz filter=lfs diff=lfs merge=lfs -text
