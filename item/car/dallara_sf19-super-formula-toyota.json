@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T20:18:23.807Z"
+  },
+  "stability": {
+    "N": "8"
+  },
+  "name": {
+    "S": "SF19 Super Formula / Toyota"
+  },
+  "weight": {
+    "N": "660"
+  },
+  "cornering": {
+    "N": "8.3"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "8.2"
+  },
+  "acceleration": {
+    "N": "8.3"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T20:18:23.807Z"
+  },
+  "carManufacturerId": {
+    "S": "60d9ac64-9d43-4956-9be4-a1cebf4fa086"
+  },
+  "power": {
+    "N": "648"
+  },
+  "speed": {
+    "N": "8"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "b5ae4521-f999-4967-8e31-077448c586f4"
+  }
+}
