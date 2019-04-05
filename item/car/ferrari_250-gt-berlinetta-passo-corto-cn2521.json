@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FR"
+  },
+  "createdAt": {
+    "S": "2019-01-29T10:18:19.566Z"
+  },
+  "stability": {
+    "N": "4.6"
+  },
+  "name": {
+    "S": "250 GT Berlinetta passo corto CN.2521"
+  },
+  "weight": {
+    "N": "960"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N300"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "3.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T10:18:19.566Z"
+  },
+  "carManufacturerId": {
+    "S": "3b571c4d-4789-4fec-91d2-e86653670ba3"
+  },
+  "power": {
+    "N": "279"
+  },
+  "speed": {
+    "N": "3.9"
+  },
+  "price": {
+    "N": "12500000"
+  },
+  "id": {
+    "S": "854cad14-b460-4693-a5c8-57c58a718432"
+  }
+}

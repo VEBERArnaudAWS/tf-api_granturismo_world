@@ -164,6 +164,18 @@ resource "aws_dynamodb_table_item" "manufacturer_daihatsu" {
   item = "${data.local_file.manufacturer_daihatsu.content}"
 }
 
+# dallara item
+data "local_file" "manufacturer_dallara" {
+  filename = "${path.module}/item/manufacturer/dallara.json"
+}
+
+resource "aws_dynamodb_table_item" "manufacturer_dallara" {
+  table_name = "${aws_dynamodb_table.manufacturer.name}"
+  hash_key   = "${aws_dynamodb_table.manufacturer.hash_key}"
+
+  item = "${data.local_file.manufacturer_dallara.content}"
+}
+
 # de-tomaso item
 data "local_file" "manufacturer_de-tomaso" {
   filename = "${path.module}/item/manufacturer/de-tomaso.json"

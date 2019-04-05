@@ -763,6 +763,30 @@ resource "aws_dynamodb_table_item" "car_daihatsu_copen-rj-vision-gran-turismo" {
   item = "${data.local_file.car_daihatsu_copen-rj-vision-gran-turismo.content}"
 }
 
+# dallara_sf19-super-formula-honda item
+data "local_file" "car_dallara_sf19-super-formula-honda" {
+  filename = "${path.module}/item/car/dallara_sf19-super-formula-honda.json"
+}
+
+resource "aws_dynamodb_table_item" "car_dallara_sf19-super-formula-honda" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_dallara_sf19-super-formula-honda.content}"
+}
+
+# dallara_sf19-super-formula-toyota item
+data "local_file" "car_dallara_sf19-super-formula-toyota" {
+  filename = "${path.module}/item/car/dallara_sf19-super-formula-toyota.json"
+}
+
+resource "aws_dynamodb_table_item" "car_dallara_sf19-super-formula-toyota" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_dallara_sf19-super-formula-toyota.content}"
+}
+
 # de-tomaso_pantera item
 data "local_file" "car_de-tomaso_pantera" {
   filename = "${path.module}/item/car/de-tomaso_pantera.json"
@@ -905,6 +929,18 @@ resource "aws_dynamodb_table_item" "car_dodge_viper-srt10-coupe" {
   hash_key   = "${aws_dynamodb_table.car.hash_key}"
 
   item = "${data.local_file.car_dodge_viper-srt10-coupe.content}"
+}
+
+# ferrari_250-gt-berlinetta-passo-corto-cn2521 item
+data "local_file" "car_ferrari_250-gt-berlinetta-passo-corto-cn2521" {
+  filename = "${path.module}/item/car/ferrari_250-gt-berlinetta-passo-corto-cn2521.json"
+}
+
+resource "aws_dynamodb_table_item" "car_ferrari_250-gt-berlinetta-passo-corto-cn2521" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_ferrari_250-gt-berlinetta-passo-corto-cn2521.content}"
 }
 
 # ferrari_250-gto-cn3729gt item
@@ -1651,6 +1687,18 @@ resource "aws_dynamodb_table_item" "car_lamborghini_aventador-lp-700-4" {
   item = "${data.local_file.car_lamborghini_aventador-lp-700-4.content}"
 }
 
+# lamborghini_countach-25th-anniversary item
+data "local_file" "car_lamborghini_countach-25th-anniversary" {
+  filename = "${path.module}/item/car/lamborghini_countach-25th-anniversary.json"
+}
+
+resource "aws_dynamodb_table_item" "car_lamborghini_countach-25th-anniversary" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_lamborghini_countach-25th-anniversary.content}"
+}
+
 # lamborghini_countach-lp400 item
 data "local_file" "car_lamborghini_countach-lp400" {
   filename = "${path.module}/item/car/lamborghini_countach-lp400.json"
@@ -1745,6 +1793,18 @@ resource "aws_dynamodb_table_item" "car_lancia_delta-hf-inegrale-evoluzione" {
   hash_key   = "${aws_dynamodb_table.car.hash_key}"
 
   item = "${data.local_file.car_lancia_delta-hf-inegrale-evoluzione.content}"
+}
+
+# lancia_stratos item
+data "local_file" "car_lancia_stratos" {
+  filename = "${path.module}/item/car/lancia_stratos.json"
+}
+
+resource "aws_dynamodb_table_item" "car_lancia_stratos" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_lancia_stratos.content}"
 }
 
 # lexus_au-toms-rc-f item

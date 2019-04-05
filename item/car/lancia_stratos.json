@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:39:51.766Z"
+  },
+  "stability": {
+    "N": "4.9"
+  },
+  "name": {
+    "S": "Stratos"
+  },
+  "weight": {
+    "N": "980"
+  },
+  "cornering": {
+    "N": "1.9"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "2"
+  },
+  "acceleration": {
+    "N": "4.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:39:51.766Z"
+  },
+  "carManufacturerId": {
+    "S": "ad62b5f2-17c4-461b-9c78-372d7c95fcc2"
+  },
+  "power": {
+    "N": "188"
+  },
+  "speed": {
+    "N": "5.6"
+  },
+  "price": {
+    "N": "600000"
+  },
+  "id": {
+    "S": "49baf55e-afa3-406e-8ce6-ca786c40dd0b"
+  }
+}

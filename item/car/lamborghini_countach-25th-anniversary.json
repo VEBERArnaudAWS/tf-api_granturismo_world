@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T07:06:30.081Z"
+  },
+  "stability": {
+    "N": "5.7"
+  },
+  "name": {
+    "S": "Countach 25th Anniversary"
+  },
+  "weight": {
+    "N": "1490"
+  },
+  "cornering": {
+    "N": "2"
+  },
+  "division": {
+    "S": "N500"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "4.6"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T07:06:30.081Z"
+  },
+  "carManufacturerId": {
+    "S": "85c6ac3b-ae59-40d4-8ec1-58cc0ffd3915"
+  },
+  "power": {
+    "N": "456"
+  },
+  "speed": {
+    "N": "8"
+  },
+  "price": {
+    "N": "500000"
+  },
+  "id": {
+    "S": "0dbaac2a-81bd-4db2-9667-130199a94a16"
+  }
+}

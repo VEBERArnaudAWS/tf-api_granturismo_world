@@ -1,0 +1,20 @@
+{
+  "__typename": {
+    "S": "Manufacturer"
+  },
+  "createdAt": {
+    "S": "2019-01-28T12:24:59.851Z"
+  },
+  "id": {
+    "S": "60d9ac64-9d43-4956-9be4-a1cebf4fa086"
+  },
+  "name": {
+    "S": "Dallara"
+  },
+  "country": {
+    "S": "Japan"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T12:24:59.851Z"
+  }
+}
