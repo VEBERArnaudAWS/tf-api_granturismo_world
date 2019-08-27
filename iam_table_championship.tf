@@ -1,9 +1,9 @@
 # championship role
 data "aws_iam_policy_document" "championship_table_assume_role" {
-  statement = {
+  statement {
     effect = "Allow"
 
-    principals = {
+    principals {
       type = "Service"
 
       identifiers = [
@@ -32,7 +32,7 @@ resource "aws_iam_role" "championship_table" {
 
 # championship role policy
 data "aws_iam_policy_document" "championship_table" {
-  statement = {
+  statement {
     effect = "Allow"
 
     actions = [

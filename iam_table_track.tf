@@ -1,9 +1,9 @@
 # track role
 data "aws_iam_policy_document" "track_table_assume_role" {
-  statement = {
+  statement {
     effect = "Allow"
 
-    principals = {
+    principals {
       type = "Service"
 
       identifiers = [
@@ -32,7 +32,7 @@ resource "aws_iam_role" "track_table" {
 
 # track role policy
 data "aws_iam_policy_document" "track_table" {
-  statement = {
+  statement {
     effect = "Allow"
 
     actions = [
