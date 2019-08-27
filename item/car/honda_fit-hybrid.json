@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "FF"
+  },
+  "createdAt": {
+    "S": "2019-01-29T11:30:19.294Z"
+  },
+  "stability": {
+    "N": "5.3"
+  },
+  "name": {
+    "S": "Fit Hybrid"
+  },
+  "weight": {
+    "N": "1080"
+  },
+  "cornering": {
+    "N": "1.6"
+  },
+  "division": {
+    "S": "N100"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "2.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-29T11:30:19.294Z"
+  },
+  "carManufacturerId": {
+    "S": "1a6195c3-84c1-4144-a9fa-105a27f5f0ac"
+  },
+  "power": {
+    "N": "140"
+  },
+  "speed": {
+    "N": "2.6"
+  },
+  "price": {
+    "N": "16800"
+  },
+  "id": {
+    "S": "111e0f80-7061-49a0-a885-b8fc5616e16c"
+  }
+}

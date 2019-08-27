@@ -379,6 +379,18 @@ resource "aws_dynamodb_table_item" "car_audi_tt-cup" {
   item = "${data.local_file.car_audi_tt-cup.content}"
 }
 
+# audi_tt-cup item
+data "local_file" "car_audi_tt-coupe-3_2-quattro" {
+  filename = "${path.module}/item/car/audi_tt-coupe-3_2-quattro.json"
+}
+
+resource "aws_dynamodb_table_item" "car_audi_tt-coupe-3_2-quattro" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_audi_tt-coupe-3_2-quattro.content}"
+}
+
 # audi_tts-coupe item
 data "local_file" "car_audi_tts-coupe" {
   filename = "${path.module}/item/car/audi_tts-coupe.json"
@@ -1385,6 +1397,18 @@ resource "aws_dynamodb_table_item" "car_honda_epson-nsx" {
   hash_key   = "${aws_dynamodb_table.car.hash_key}"
 
   item = "${data.local_file.car_honda_epson-nsx.content}"
+}
+
+# honda_fit-hybrid item
+data "local_file" "car_honda_fit-hybrid" {
+  filename = "${path.module}/item/car/honda_fit-hybrid.json"
+}
+
+resource "aws_dynamodb_table_item" "car_honda_fit-hybrid" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_honda_fit-hybrid.content}"
 }
 
 # honda_integra-type-r-dc2 item
@@ -2875,6 +2899,18 @@ resource "aws_dynamodb_table_item" "car_porsche_911-rsr-991" {
   item = "${data.local_file.car_porsche_911-rsr-991.content}"
 }
 
+# porsche_962-c item
+data "local_file" "car_porsche_962-c" {
+  filename = "${path.module}/item/car/porsche_962-c.json"
+}
+
+resource "aws_dynamodb_table_item" "car_porsche_962-c" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_porsche_962-c.content}"
+}
+
 # porsche_919-hybrid-porsche-team item
 data "local_file" "car_porsche_919-hybrid-porsche-team" {
   filename = "${path.module}/item/car/porsche_919-hybrid-porsche-team.json"
@@ -2897,6 +2933,18 @@ resource "aws_dynamodb_table_item" "car_porsche_cayman-gt4-clubsport" {
   hash_key   = "${aws_dynamodb_table.car.hash_key}"
 
   item = "${data.local_file.car_porsche_cayman-gt4-clubsport.content}"
+}
+
+# renault_r8-gordini item
+data "local_file" "car_renault_r8-gordini" {
+  filename = "${path.module}/item/car/renault_r8-gordini.json"
+}
+
+resource "aws_dynamodb_table_item" "car_renault_r8-gordini" {
+  table_name = "${aws_dynamodb_table.car.name}"
+  hash_key   = "${aws_dynamodb_table.car.hash_key}"
+
+  item = "${data.local_file.car_renault_r8-gordini.content}"
 }
 
 # renault-sport_clio-rs-220-edc-trophy-15 item

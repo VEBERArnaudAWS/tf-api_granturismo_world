@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "MR"
+  },
+  "createdAt": {
+    "S": "2019-01-30T13:09:03.925Z"
+  },
+  "stability": {
+    "N": "7.7"
+  },
+  "name": {
+    "S": "962 C"
+  },
+  "weight": {
+    "N": "850"
+  },
+  "cornering": {
+    "N": "5.9"
+  },
+  "division": {
+    "S": "Gr.1"
+  },
+  "braking": {
+    "N": "5.9"
+  },
+  "acceleration": {
+    "N": "6.9"
+  },
+  "updatedAt": {
+    "S": "2019-01-30T13:09:03.925Z"
+  },
+  "carManufacturerId": {
+    "S": "90574e81-f742-4693-b347-9de011e8265d"
+  },
+  "power": {
+    "N": "619"
+  },
+  "speed": {
+    "N": "8.2"
+  },
+  "price": {
+    "N": "1000000"
+  },
+  "id": {
+    "S": "9336c32d-e5e6-4c34-84ff-d3c5eb098030"
+  }
+}

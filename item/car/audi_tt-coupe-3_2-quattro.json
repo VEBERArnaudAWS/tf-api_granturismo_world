@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "4WD"
+  },
+  "createdAt": {
+    "S": "2019-01-28T19:12:36.418Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "TT Coupé 3.2 quattro"
+  },
+  "weight": {
+    "N": "1520"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "division": {
+    "S": "N200"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "4.5"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T19:12:36.418Z"
+  },
+  "carManufacturerId": {
+    "S": "17f2599c-b4cc-47e8-aa13-ed97d31aaccd"
+  },
+  "power": {
+    "N": "243"
+  },
+  "speed": {
+    "N": "5.6"
+  },
+  "price": {
+    "N": "57800"
+  },
+  "id": {
+    "S": "a08b76ae-c98a-4798-9164-3dd4d156172b"
+  }
+}

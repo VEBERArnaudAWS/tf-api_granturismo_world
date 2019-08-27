@@ -1,0 +1,50 @@
+{
+  "__typename": {
+    "S": "Car"
+  },
+  "drivetrain": {
+    "S": "RR"
+  },
+  "createdAt": {
+    "S": "2019-01-28T01:36:11.809Z"
+  },
+  "stability": {
+    "N": "5.1"
+  },
+  "name": {
+    "S": "R8 Gordini"
+  },
+  "cornering": {
+    "N": "1.8"
+  },
+  "weight": {
+    "N": "850"
+  },
+  "division": {
+    "S": "Gr.X"
+  },
+  "braking": {
+    "N": "1.9"
+  },
+  "acceleration": {
+    "N": "3.1"
+  },
+  "updatedAt": {
+    "S": "2019-01-28T10:54:23.799Z"
+  },
+  "carManufacturerId": {
+    "S": "e0a9818c-6d48-4cc0-ac02-20e0c40c4919"
+  },
+  "power": {
+    "N": "103"
+  },
+  "speed": {
+    "N": "2.8"
+  },
+  "id": {
+    "S": "643e142b-51e5-4869-a2c5-6635c8524885"
+  },
+  "price": {
+    "N": "80000"
+  }
+}
