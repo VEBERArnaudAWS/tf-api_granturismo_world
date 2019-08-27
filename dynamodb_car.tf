@@ -4,17 +4,17 @@ resource "aws_dynamodb_table" "car" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "id"
 
-  attribute = {
+  attribute {
     name = "id"
     type = "S"
   }
 
-  attribute = {
+  attribute {
     name = "carManufacturerId"
     type = "S"
   }
 
-  global_secondary_index = {
+  global_secondary_index {
     name            = "ManufacturerCars"
     hash_key        = "carManufacturerId"
     projection_type = "ALL"

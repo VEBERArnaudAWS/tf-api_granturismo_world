@@ -4,33 +4,33 @@ resource "aws_dynamodb_table" "race" {
   billing_mode = "PAY_PER_REQUEST"
   hash_key     = "id"
 
-  attribute = {
+  attribute {
     name = "id"
     type = "S"
   }
 
-  attribute = {
+  attribute {
     name = "id"
     type = "S"
   }
 
-  attribute = {
+  attribute {
     name = "raceChampionshipId"
     type = "S"
   }
 
-  attribute = {
+  attribute {
     name = "raceTrackId"
     type = "S"
   }
 
-  global_secondary_index = {
+  global_secondary_index {
     name            = "ChampionshipRaces"
     hash_key        = "raceChampionshipId"
     projection_type = "ALL"
   }
 
-  global_secondary_index = {
+  global_secondary_index {
     name            = "RacesTrack"
     hash_key        = "raceTrackId"
     projection_type = "ALL"

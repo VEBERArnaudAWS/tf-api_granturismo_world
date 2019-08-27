@@ -1,9 +1,9 @@
 # appsync log role
 data "aws_iam_policy_document" "appsync_log_assume_role" {
-  statement = {
+  statement {
     effect = "Allow"
 
-    principals = {
+    principals {
       type = "Service"
 
       identifiers = [

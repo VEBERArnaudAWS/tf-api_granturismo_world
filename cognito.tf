@@ -2,7 +2,7 @@
 resource "aws_cognito_user_pool" "main" {
   name = "${var.application}.${lookup(var.env_dns_zones_prefix, terraform.workspace)}${var.domain}"
 
-  admin_create_user_config = {}
+  admin_create_user_config {}
 
   auto_verified_attributes = [
     "email",
@@ -13,7 +13,7 @@ resource "aws_cognito_user_pool" "main" {
 
   sms_verification_message = "Your verification code is {####}"
 
-  password_policy = {
+  password_policy {
     minimum_length    = 8
     require_lowercase = true
     require_numbers   = true
@@ -21,7 +21,7 @@ resource "aws_cognito_user_pool" "main" {
     require_uppercase = true
   }
 
-  schema = {
+  schema {
     name                = "email"
     attribute_data_type = "String"
 
@@ -29,7 +29,7 @@ resource "aws_cognito_user_pool" "main" {
     required                 = true
     developer_only_attribute = false
 
-    string_attribute_constraints = {
+    string_attribute_constraints {
       max_length = 2048
       min_length = 0
     }

@@ -2,7 +2,7 @@ language: generic
 
 env:
   global:
-    - TERRAFORM_VERSION=0.11.13
+    - TERRAFORM_VERSION=0.12.7
     - TERRAFORM_PATH=$HOME/bin
 
 before_install:
@@ -11,7 +11,6 @@ before_install:
 
 install:
   - unzip -d "${TERRAFORM_PATH}" /tmp/terraform.zip
-  - tar -xzf bin/provider/terraform-provider-aws.tar.gz -C .terraform/plugins/linux_amd64/
 
 before_script:
   - terraform init -input=false

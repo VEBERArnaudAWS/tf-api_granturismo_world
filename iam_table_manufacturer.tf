@@ -1,9 +1,9 @@
 # manufacturer role
 data "aws_iam_policy_document" "manufacturer_table_assume_role" {
-  statement = {
+  statement {
     effect = "Allow"
 
-    principals = {
+    principals {
       type = "Service"
 
       identifiers = [
@@ -32,7 +32,7 @@ resource "aws_iam_role" "manufacturer_table" {
 
 # manufacturer role policy
 data "aws_iam_policy_document" "manufacturer_table" {
-  statement = {
+  statement {
     effect = "Allow"
 
     actions = [

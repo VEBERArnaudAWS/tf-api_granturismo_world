@@ -1,9 +1,9 @@
 # race role
 data "aws_iam_policy_document" "race_table_assume_role" {
-  statement = {
+  statement {
     effect = "Allow"
 
-    principals = {
+    principals {
       type = "Service"
 
       identifiers = [
@@ -32,7 +32,7 @@ resource "aws_iam_role" "race_table" {
 
 # race role policy
 data "aws_iam_policy_document" "race_table" {
-  statement = {
+  statement {
     effect = "Allow"
 
     actions = [
