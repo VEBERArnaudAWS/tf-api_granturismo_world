@@ -1,5 +1,5 @@
 terraform {
-  required_version = "~>0.11.13"
+  required_version = "~> 0.12.0"
 
   backend "s3" {
     key = "tf-gtsport"
@@ -14,11 +14,11 @@ provider "aws" {
 
   region = "us-east-1"
 
-  version = "~>1.60"
+  version = "~> 2.25"
 }
 
 provider "local" {
-  version = "1.1.0"
+  version = "~> 1.3"
 }
 
 data "aws_region" "current" {}
