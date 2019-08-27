@@ -524,6 +524,18 @@ resource "aws_dynamodb_table_item" "manufacturer_porsche" {
   item = "${data.local_file.manufacturer_porsche.content}"
 }
 
+# renault item
+data "local_file" "manufacturer_renault" {
+  filename = "${path.module}/item/manufacturer/renault.json"
+}
+
+resource "aws_dynamodb_table_item" "manufacturer_renault" {
+  table_name = "${aws_dynamodb_table.manufacturer.name}"
+  hash_key   = "${aws_dynamodb_table.manufacturer.hash_key}"
+
+  item = "${data.local_file.manufacturer_renault.content}"
+}
+
 # renault-sport item
 data "local_file" "manufacturer_renault-sport" {
   filename = "${path.module}/item/manufacturer/renault-sport.json"
