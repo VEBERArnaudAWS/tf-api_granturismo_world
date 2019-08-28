@@ -27,3 +27,11 @@ variable "env_dns_zones_prefix" {
     "prd" = ""
   }
 }
+
+variable "google_client_id" {
+  type = object({ stg = string, prd = string })
+}
+
+variable "google_client_secret" {
+  type = object({ stg = string, prd = string })
+}
