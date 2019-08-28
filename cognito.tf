@@ -50,8 +50,59 @@ resource "aws_cognito_user_pool_client" "mobile" {
 resource "aws_cognito_user_pool_client" "web" {
   name = "web"
 
-  user_pool_id = "${aws_cognito_user_pool.main.id}"
+  user_pool_id = aws_cognito_user_pool.main.id
 
   generate_secret        = false
   refresh_token_validity = 7
+
+  allowed_oauth_flows_user_pool_client = true
+  allowed_oauth_flows = [
+    "code"
+  ]
+  allowed_oauth_scopes = [
+    "aws.cognito.signin.user.admin",
+    "email",
+    "openid",
+    "phone",
+    "profile",
+  ]
+
+  callback_urls = [
+    "http://localhost:3000/"
+  ]
+  logout_urls = [
+    "http://localhost:3000/"
+  ]
+
+  supported_identity_providers = [
+    "Google"
+  ]
+}
+
+resource "aws_cognito_identity_provider" "google" {
+  user_pool_id  = aws_cognito_user_pool.main.id
+  provider_name = "Google"
+  provider_type = "Google"
+
+  provider_details = {
+    attributes_url                = "https://people.googleapis.com/v1/people/me?personFields="
+    attributes_url_add_attributes = true
+
+    authorize_scopes = "profile email openid"
+    authorize_url    = "https://accounts.google.com/o/oauth2/v2/auth"
+
+    client_id     = var.google_client_id[terraform.workspace]
+    client_secret = var.google_client_secret[terraform.workspace]
+
+    oidc_issuer = "https://accounts.google.com"
+
+    token_request_method = "POST"
+    token_url            = "https://www.googleapis.com/oauth2/v4/token"
+  }
+
+  attribute_mapping = {
+    email          = "email"
+    email_verified = "email_verified"
+    username       = "sub"
+  }
 }
